@@ -1,0 +1,4254 @@
+08-10-2013 05:10:01 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:01 DEBUG in Main
+08-10-2013 05:10:31 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:31 DEBUG in Main
+08-10-2013 05:10:30 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:30 DEBUG in Main
+08-10-2013 05:10:45 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:45 DEBUG in Main
+08-10-2013 05:10:35 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:35 DEBUG in Main
+08-10-2013 05:10:46 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:46 DEBUG in Main
+08-10-2013 05:10:38 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:38 DEBUG in Main
+08-10-2013 05:10:23 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:23 DEBUG in Main
+08-10-2013 05:10:23 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:23 DEBUG in Main
+08-10-2013 05:10:28 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:28 DEBUG in Main
+08-10-2013 05:10:38 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:38 DEBUG in Main
+08-10-2013 05:10:49 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:49 DEBUG in Main
+08-10-2013 05:10:00 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:00 DEBUG in Main
+08-10-2013 05:10:20 DEBUG Processing Request ForgotPwd-Process
+08-10-2013 05:10:20 DEBUG Processing Request ForgotPwd-Process SIZE=2
+08-10-2013 05:10:20 DUMP Array
+(
+    [0] => ForgotPwd
+    [1] => Process
+)
+
+08-10-2013 05:10:20 DEBUG PROCESS VIEW : Calling ClassForgotPwd
+08-10-2013 05:10:20 DEBUG PROCESS VIEW : Calling FunctionProcess
+08-10-2013 05:10:20 TIME:0.0309 Process:ForgotPwd-Process
+08-10-2013 05:10:23 DEBUG Processing Request ForgotPwd-Process
+08-10-2013 05:10:23 DEBUG Processing Request ForgotPwd-Process SIZE=2
+08-10-2013 05:10:23 DUMP Array
+(
+    [0] => ForgotPwd
+    [1] => Process
+)
+
+08-10-2013 05:10:23 DEBUG PROCESS VIEW : Calling ClassForgotPwd
+08-10-2013 05:10:23 DEBUG PROCESS VIEW : Calling FunctionProcess
+08-10-2013 05:10:23 TIME:0.0045 Process:ForgotPwd-Process
+08-10-2013 05:10:37 DEBUG Processing Request Login-Process
+08-10-2013 05:10:37 DEBUG Processing Request Login-Process SIZE=2
+08-10-2013 05:10:37 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+08-10-2013 05:10:37 DEBUG PROCESS VIEW : Calling ClassLogin
+08-10-2013 05:10:37 DEBUG PROCESS VIEW : Calling FunctionProcess
+08-10-2013 05:10:37 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Event","Ctrl_Type":5}]}
+08-10-2013 05:10:37 TIME:0.2405 Process:Login-Process
+08-10-2013 05:10:38 DEBUG Processing Request Event
+08-10-2013 05:10:38 DEBUG Processing Request Event SIZE=1
+08-10-2013 05:10:38 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 05:10:38 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 05:10:38 TIME:0.1446 Process:Event
+08-10-2013 05:10:47 DEBUG Processing Request Event-OpenEvent-1
+08-10-2013 05:10:47 DEBUG Processing Request Event-OpenEvent-1 SIZE=3
+08-10-2013 05:10:47 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 1
+)
+
+08-10-2013 05:10:47 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 05:10:47 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+08-10-2013 05:10:47 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+08-10-2013 05:10:47 TIME:0.0038 Process:Event-OpenEvent-1
+08-10-2013 05:10:47 DEBUG Processing Request Visitor
+08-10-2013 05:10:47 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:47 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:48 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:48 TIME:0.2010 Process:Visitor
+08-10-2013 05:10:51 DEBUG Processing Request Event
+08-10-2013 05:10:51 DEBUG Processing Request Event SIZE=1
+08-10-2013 05:10:51 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 05:10:51 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 05:10:51 TIME:0.0114 Process:Event
+08-10-2013 05:10:55 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 05:10:55 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 05:10:55 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:55 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 05:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:27 DEBUG Processing Request Event
+08-10-2013 05:10:27 DEBUG Processing Request Event SIZE=1
+08-10-2013 05:10:27 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 05:10:27 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 05:10:27 TIME:0.0093 Process:Event
+08-10-2013 05:10:57 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 05:10:57 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 05:10:57 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:57 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 05:10:57 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:57 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Anniversary<\/td><td>Bandra Kurla Complex,Mumbai<\/td><td>20\/10\/13<\/td><td>1003<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Anniversary<\/td><td>Bandra Kurla Complex,Mumbai<\/td><td>20\/10\/13<\/td><td>1003<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 05:10:57 TIME:0.0638 Process:Event-AddNewEvent
+08-10-2013 05:10:03 DEBUG Processing Request Event
+08-10-2013 05:10:03 DEBUG Processing Request Event SIZE=1
+08-10-2013 05:10:03 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 05:10:03 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 05:10:03 TIME:0.0194 Process:Event
+08-10-2013 05:10:17 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 05:10:17 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 05:10:17 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:17 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 05:10:17 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:17 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Birthday<\/td><td>Nalasopara west ,thane 401102<\/td><td>5\/11\/13<\/td><td>08<\/td><td>@yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Birthday<\/td><td>Nalasopara west ,thane 401102<\/td><td>5\/11\/13<\/td><td>08<\/td><td>@yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 05:10:17 TIME:0.1543 Process:Event-AddNewEvent
+08-10-2013 05:10:20 DEBUG Processing Request Event
+08-10-2013 05:10:20 DEBUG Processing Request Event SIZE=1
+08-10-2013 05:10:20 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 05:10:20 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 05:10:20 TIME:0.0152 Process:Event
+08-10-2013 05:10:42 DEBUG Processing Request Event-OpenEvent-1
+08-10-2013 05:10:42 DEBUG Processing Request Event-OpenEvent-1 SIZE=3
+08-10-2013 05:10:42 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 1
+)
+
+08-10-2013 05:10:42 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 05:10:42 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+08-10-2013 05:10:42 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+08-10-2013 05:10:42 TIME:0.0043 Process:Event-OpenEvent-1
+08-10-2013 05:10:43 DEBUG Processing Request Visitor
+08-10-2013 05:10:43 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:43 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:43 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:43 TIME:0.0077 Process:Visitor
+08-10-2013 05:10:22 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 05:10:22 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 05:10:22 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 05:10:22 TIME:0.0005 Process:AddressormDelayLoad
+08-10-2013 05:10:25 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:25 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:25 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:25 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:25 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:15 DEBUG Processing Request Visitor
+08-10-2013 05:10:15 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:15 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:15 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:15 TIME:0.0185 Process:Visitor
+08-10-2013 05:10:08 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 05:10:08 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 05:10:08 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 05:10:08 TIME:0.0005 Process:AddressormDelayLoad
+08-10-2013 05:10:12 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:12 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:12 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:12 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:12 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:48 DEBUG Processing Request Visitor
+08-10-2013 05:10:48 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:48 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:48 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:48 TIME:0.0148 Process:Visitor
+08-10-2013 05:10:58 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:58 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:58 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:58 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:58 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:54 DEBUG Processing Request Visitor
+08-10-2013 05:10:54 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:54 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:54 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:54 TIME:0.0233 Process:Visitor
+08-10-2013 05:10:59 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:59 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:59 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:59 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:59 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:47 DEBUG Processing Request Visitor
+08-10-2013 05:10:47 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:47 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:47 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:47 TIME:0.0116 Process:Visitor
+08-10-2013 05:10:54 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:54 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:54 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:54 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:54 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:36 DEBUG Processing Request Masters
+08-10-2013 05:10:36 DEBUG Processing Request Masters SIZE=1
+08-10-2013 05:10:36 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 05:10:36 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 05:10:36 TIME:0.0058 Process:Masters
+08-10-2013 06:10:29 DEBUG Processing Request Masters
+08-10-2013 06:10:29 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:29 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:48 DEBUG Processing Request Masters
+08-10-2013 06:10:48 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:48 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:48 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:48 TIME:0.0094 Process:Masters
+08-10-2013 06:10:59 DEBUG Processing Request Masters
+08-10-2013 06:10:59 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:59 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:59 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:59 TIME:0.0067 Process:Masters
+08-10-2013 06:10:04 DEBUG Processing Request Masters
+08-10-2013 06:10:04 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:04 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:04 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:04 TIME:0.0083 Process:Masters
+08-10-2013 06:10:18 DEBUG Processing Request Masters
+08-10-2013 06:10:18 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:18 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:18 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:18 TIME:0.0075 Process:Masters
+08-10-2013 06:10:30 DEBUG Processing Request Masters
+08-10-2013 06:10:30 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:30 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:30 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:30 TIME:0.0082 Process:Masters
+08-10-2013 06:10:10 DEBUG Processing Request Masters
+08-10-2013 06:10:10 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:10 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:10 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:10 TIME:0.0085 Process:Masters
+08-10-2013 06:10:40 DEBUG Processing Request Masters
+08-10-2013 06:10:40 DEBUG Processing Request Masters SIZE=1
+08-10-2013 06:10:40 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 06:10:40 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 06:10:40 TIME:0.0069 Process:Masters
+08-10-2013 07:10:16 DEBUG Processing Request Event
+08-10-2013 07:10:16 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:16 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:16 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:16 TIME:0.0197 Process:Event
+08-10-2013 07:10:19 DEBUG Processing Request Event
+08-10-2013 07:10:19 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:19 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:19 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:19 TIME:0.0091 Process:Event
+08-10-2013 07:10:24 DEBUG Processing Request Masters
+08-10-2013 07:10:24 DEBUG Processing Request Masters SIZE=1
+08-10-2013 07:10:24 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 07:10:54 DEBUG Processing Request Masters
+08-10-2013 07:10:54 DEBUG Processing Request Masters SIZE=1
+08-10-2013 07:10:54 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 07:10:16 DEBUG Processing Request Masters
+08-10-2013 07:10:16 DEBUG Processing Request Masters SIZE=1
+08-10-2013 07:10:16 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 07:10:17 DEBUG Processing Request Masters
+08-10-2013 07:10:17 DEBUG Processing Request Masters SIZE=1
+08-10-2013 07:10:17 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 07:10:40 DEBUG Processing Request Masters
+08-10-2013 07:10:40 DEBUG Processing Request Masters SIZE=1
+08-10-2013 07:10:40 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 07:10:40 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 07:10:40 TIME:0.0061 Process:Masters
+08-10-2013 07:10:09 DEBUG Processing Request Event
+08-10-2013 07:10:09 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:09 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:09 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:09 TIME:0.0240 Process:Event
+08-10-2013 07:10:55 DEBUG Processing Request Event
+08-10-2013 07:10:55 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:55 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:55 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:56 TIME:0.0195 Process:Event
+08-10-2013 07:10:32 DEBUG Processing Request Event
+08-10-2013 07:10:32 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:32 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:32 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:32 TIME:0.0228 Process:Event
+08-10-2013 07:10:39 DEBUG Processing Request Event
+08-10-2013 07:10:39 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:39 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:39 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:39 TIME:0.0187 Process:Event
+08-10-2013 07:10:56 DEBUG Processing Request Event
+08-10-2013 07:10:56 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:56 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:56 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:56 TIME:0.0205 Process:Event
+08-10-2013 07:10:46 DEBUG Processing Request Event
+08-10-2013 07:10:46 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:46 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:46 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:46 TIME:0.0126 Process:Event
+08-10-2013 07:10:15 DEBUG Processing Request Event
+08-10-2013 07:10:15 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:15 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:15 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:15 TIME:0.0097 Process:Event
+08-10-2013 07:10:26 DEBUG Processing Request Event
+08-10-2013 07:10:26 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:26 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:26 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:26 TIME:0.0206 Process:Event
+08-10-2013 07:10:29 DEBUG Processing Request Event
+08-10-2013 07:10:29 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:29 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:29 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:29 TIME:0.0196 Process:Event
+08-10-2013 07:10:40 DEBUG Processing Request Event
+08-10-2013 07:10:40 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:40 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:40 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:40 TIME:0.0098 Process:Event
+08-10-2013 07:10:14 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 07:10:14 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 07:10:14 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 07:10:14 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 07:10:14 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 07:10:14 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 07:10:14 TIME:0.0588 Process:Event-AddNewEvent
+08-10-2013 07:10:25 DEBUG Processing Request Event
+08-10-2013 07:10:25 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:25 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:25 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:25 TIME:0.0190 Process:Event
+08-10-2013 07:10:51 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 07:10:51 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 07:10:51 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 07:10:51 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 07:10:51 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 07:10:51 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 07:10:51 TIME:0.0603 Process:Event-AddNewEvent
+08-10-2013 07:10:54 DEBUG Processing Request Event
+08-10-2013 07:10:54 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:54 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:54 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:54 TIME:0.0191 Process:Event
+08-10-2013 07:10:14 DEBUG Processing Request Event
+08-10-2013 07:10:14 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:14 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:14 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:14 TIME:0.0209 Process:Event
+08-10-2013 07:10:50 DEBUG Processing Request Event
+08-10-2013 07:10:50 DEBUG Processing Request Event SIZE=1
+08-10-2013 07:10:50 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 07:10:50 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 07:10:50 TIME:0.0244 Process:Event
+08-10-2013 08:10:19 DEBUG Processing Request Event
+08-10-2013 08:10:19 DEBUG Processing Request Event SIZE=1
+08-10-2013 08:10:19 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 08:10:19 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 08:10:19 TIME:0.0420 Process:Event
+08-10-2013 08:10:24 DEBUG Processing Request Event
+08-10-2013 08:10:24 DEBUG Processing Request Event SIZE=1
+08-10-2013 08:10:24 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 08:10:24 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 08:10:24 TIME:0.0239 Process:Event
+08-10-2013 08:10:11 DEBUG Processing Request User
+08-10-2013 08:10:11 DEBUG Processing Request User SIZE=1
+08-10-2013 08:10:11 DUMP Array
+(
+    [0] => User
+)
+
+08-10-2013 08:10:11 TIME:0.0030 Process:User
+08-10-2013 08:10:18 DEBUG Processing Request User
+08-10-2013 08:10:18 DEBUG Processing Request User SIZE=1
+08-10-2013 08:10:18 DUMP Array
+(
+    [0] => User
+)
+
+08-10-2013 08:10:18 DEBUG SHOW VIEW : ClassUser
+08-10-2013 08:10:18 TIME:0.0188 Process:User
+08-10-2013 08:10:19 DEBUG Processing Request User
+08-10-2013 08:10:19 DEBUG Processing Request User SIZE=1
+08-10-2013 08:10:19 DUMP Array
+(
+    [0] => User
+)
+
+08-10-2013 08:10:19 DEBUG SHOW VIEW : ClassUser
+08-10-2013 08:10:19 TIME:0.0050 Process:User
+08-10-2013 08:10:51 DEBUG Processing Request User
+08-10-2013 08:10:51 DEBUG Processing Request User SIZE=1
+08-10-2013 08:10:51 DUMP Array
+(
+    [0] => User
+)
+
+08-10-2013 08:10:51 DEBUG SHOW VIEW : ClassUser
+08-10-2013 08:10:51 TIME:0.0087 Process:User
+08-10-2013 08:10:00 DEBUG Processing Request Login
+08-10-2013 08:10:00 DEBUG Processing Request Login SIZE=1
+08-10-2013 08:10:00 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 08:10:00 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 08:10:00 TIME:0.0061 Process:Login
+08-10-2013 08:10:01 DEBUG Processing Request Registration
+08-10-2013 08:10:01 DEBUG Processing Request Registration SIZE=1
+08-10-2013 08:10:01 DUMP Array
+(
+    [0] => Registration
+)
+
+08-10-2013 08:10:01 DEBUG SHOW VIEW : ClassRegistration
+08-10-2013 08:10:01 TIME:0.0065 Process:Registration
+08-10-2013 08:10:04 DEBUG Processing Request ForgotPwd
+08-10-2013 08:10:04 DEBUG Processing Request ForgotPwd SIZE=1
+08-10-2013 08:10:04 DUMP Array
+(
+    [0] => ForgotPwd
+)
+
+08-10-2013 08:10:04 DEBUG SHOW VIEW : ClassForgotPwd
+08-10-2013 08:10:04 TIME:0.0056 Process:ForgotPwd
+08-10-2013 08:10:09 DEBUG Processing Request User
+08-10-2013 08:10:09 DEBUG Processing Request User SIZE=1
+08-10-2013 08:10:09 DUMP Array
+(
+    [0] => User
+)
+
+08-10-2013 08:10:09 DEBUG SHOW VIEW : ClassUser
+08-10-2013 08:10:09 TIME:0.0060 Process:User
+08-10-2013 08:10:24 DEBUG Processing Request Manoj
+08-10-2013 08:10:24 DEBUG Processing Request Manoj SIZE=1
+08-10-2013 08:10:24 DUMP Array
+(
+    [0] => Manoj
+)
+
+08-10-2013 08:10:24 TIME:0.0005 Process:Manoj
+08-10-2013 08:10:53 DEBUG Processing Request Manoj
+08-10-2013 08:10:53 DEBUG Processing Request Manoj SIZE=1
+08-10-2013 08:10:53 DUMP Array
+(
+    [0] => Manoj
+)
+
+08-10-2013 08:10:53 TIME:0.0042 Process:Manoj
+08-10-2013 08:10:17 DEBUG Processing Request Contact
+08-10-2013 08:10:17 DEBUG Processing Request Contact SIZE=1
+08-10-2013 08:10:17 DUMP Array
+(
+    [0] => Contact
+)
+
+08-10-2013 08:10:17 TIME:0.0041 Process:Contact
+08-10-2013 08:10:20 DEBUG Processing Request Login
+08-10-2013 08:10:20 DEBUG Processing Request Login SIZE=1
+08-10-2013 08:10:20 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 08:10:20 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 08:10:20 TIME:0.0057 Process:Login
+08-10-2013 08:10:23 DEBUG Processing Request Contact
+08-10-2013 08:10:23 DEBUG Processing Request Contact SIZE=1
+08-10-2013 08:10:23 DUMP Array
+(
+    [0] => Contact
+)
+
+08-10-2013 08:10:23 TIME:0.0039 Process:Contact
+08-10-2013 08:10:27 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 08:10:27 DEBUG in Main
+08-10-2013 09:10:49 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:49 DEBUG in Main
+08-10-2013 09:10:38 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:38 DEBUG in Main
+08-10-2013 09:10:40 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:40 DEBUG in Main
+08-10-2013 09:10:42 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:42 DEBUG in Main
+08-10-2013 09:10:09 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:09 DEBUG in Main
+08-10-2013 09:10:01 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:01 DEBUG in Main
+08-10-2013 09:10:18 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:18 DEBUG in Main
+08-10-2013 09:10:43 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:43 DEBUG in Main
+08-10-2013 09:10:25 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:25 DEBUG in Main
+08-10-2013 09:10:41 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:41 DEBUG in Main
+08-10-2013 09:10:33 DEBUG Processing Request Event
+08-10-2013 09:10:33 DEBUG Processing Request Event SIZE=1
+08-10-2013 09:10:33 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 09:10:33 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 09:10:33 TIME:0.0206 Process:Event
+08-10-2013 09:10:46 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:46 DEBUG in Main
+08-10-2013 09:10:09 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:09 DEBUG in Main
+08-10-2013 09:10:51 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 09:10:51 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 09:10:51 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 09:10:51 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 09:10:51 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 09:10:51 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Launch Car<\/td><td>Charni road east , kashmira rd<\/td><td><\/td><td><\/td><td>100006<\/td><td>Shraa<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Launch Car<\/td><td>Charni road east , kashmira rd<\/td><td><\/td><td><\/td><td>100006<\/td><td>Shraa<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 09:10:51 TIME:0.0675 Process:Event-AddNewEvent
+08-10-2013 09:10:49 DEBUG Processing Request Event
+08-10-2013 09:10:49 DEBUG Processing Request Event SIZE=1
+08-10-2013 09:10:49 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 09:10:49 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 09:10:49 TIME:0.0192 Process:Event
+08-10-2013 09:10:12 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 09:10:12 DEBUG in Main
+08-10-2013 09:10:48 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 09:10:48 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 09:10:48 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 09:10:48 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 09:10:48 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 09:10:00 DEBUG Processing Request Event
+08-10-2013 09:10:00 DEBUG Processing Request Event SIZE=1
+08-10-2013 09:10:00 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 09:10:00 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 09:10:00 TIME:0.0207 Process:Event
+08-10-2013 09:10:40 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 09:10:40 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 09:10:40 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 09:10:40 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 09:10:40 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 09:10:40 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Launch Bike<\/td><td>Mirard east mumbai<\/td><td>5\/11\/13<\/td><td>6\/11\/13<\/td><td>100006<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Launch Bike<\/td><td>Mirard east mumbai<\/td><td>5\/11\/13<\/td><td>6\/11\/13<\/td><td>100006<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 09:10:40 TIME:0.0461 Process:Event-AddNewEvent
+08-10-2013 09:10:44 DEBUG Processing Request Event
+08-10-2013 09:10:44 DEBUG Processing Request Event SIZE=1
+08-10-2013 09:10:44 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 09:10:44 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 09:10:44 TIME:0.0187 Process:Event
+08-10-2013 09:10:05 DEBUG Processing Request Event
+08-10-2013 09:10:05 DEBUG Processing Request Event SIZE=1
+08-10-2013 09:10:05 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 09:10:05 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 09:10:05 TIME:0.0200 Process:Event
+08-10-2013 09:10:53 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 09:10:53 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 09:10:53 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 09:10:53 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 09:10:53 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 09:10:53 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Birthday<\/td><td>bhayander east<\/td><td>15\/01\/14<\/td><td>16\/01\/14<\/td><td>100006<\/td><td>raj@yahoocom<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Birthday<\/td><td>bhayander east<\/td><td>15\/01\/14<\/td><td>16\/01\/14<\/td><td>100006<\/td><td>raj@yahoocom<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 09:10:53 TIME:0.0421 Process:Event-AddNewEvent
+08-10-2013 11:10:02 DEBUG Processing Request Event
+08-10-2013 11:10:02 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:02 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:02 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:02 TIME:0.0198 Process:Event
+08-10-2013 11:10:06 DEBUG Processing Request Event
+08-10-2013 11:10:06 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:06 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:06 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:06 TIME:0.0198 Process:Event
+08-10-2013 11:10:00 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:00 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:00 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:00 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:00 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:40 DEBUG Processing Request Event
+08-10-2013 11:10:40 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:40 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:40 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:40 TIME:0.0199 Process:Event
+08-10-2013 11:10:17 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:17 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:17 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:17 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:17 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:30 DEBUG Processing Request Event
+08-10-2013 11:10:30 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:30 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:30 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:30 TIME:0.0191 Process:Event
+08-10-2013 11:10:09 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:09 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:09 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:09 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:09 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:09 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Birthday<\/td><td>rajhastan ,dholakpur west<\/td><td>1\/10\/13<\/td><td>15\/10\/13<\/td><td>400000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Birthday<\/td><td>rajhastan ,dholakpur west<\/td><td>1\/10\/13<\/td><td>15\/10\/13<\/td><td>400000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:09 TIME:0.0347 Process:Event-AddNewEvent
+08-10-2013 11:10:13 DEBUG Processing Request Event
+08-10-2013 11:10:13 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:13 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:13 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:13 TIME:0.0195 Process:Event
+08-10-2013 11:10:14 DEBUG Processing Request Event
+08-10-2013 11:10:14 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:14 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:15 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:15 TIME:0.0195 Process:Event
+08-10-2013 11:10:49 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:49 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:49 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:49 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:49 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:49 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>music<\/td><td>churchgate west<\/td><td>01\/01\/13<\/td><td>5\/1\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>music<\/td><td>churchgate west<\/td><td>01\/01\/13<\/td><td>5\/1\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:49 TIME:0.0503 Process:Event-AddNewEvent
+08-10-2013 11:10:22 DEBUG Processing Request Event
+08-10-2013 11:10:22 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:22 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:22 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:22 TIME:0.0198 Process:Event
+08-10-2013 11:10:06 DEBUG Processing Request Event
+08-10-2013 11:10:06 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:06 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:06 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:06 TIME:0.0205 Process:Event
+08-10-2013 11:10:48 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:48 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:48 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:48 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:48 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:48 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>dance<\/td><td>gurgaon west <\/td><td>17\/01\/13<\/td><td>18\/02\/13<\/td><td>800000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>dance<\/td><td>gurgaon west <\/td><td>17\/01\/13<\/td><td>18\/02\/13<\/td><td>800000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:48 TIME:0.0446 Process:Event-AddNewEvent
+08-10-2013 11:10:52 DEBUG Processing Request Event
+08-10-2013 11:10:52 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:52 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:52 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:52 TIME:0.0208 Process:Event
+08-10-2013 11:10:08 DEBUG Processing Request Event
+08-10-2013 11:10:08 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:08 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:08 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:08 TIME:0.0208 Process:Event
+08-10-2013 11:10:54 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:54 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:54 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:54 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:54 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:54 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>dance event<\/td><td>dadar east,lokhandvala <\/td><td>1\/11\/13<\/td><td>5\/11\/13<\/td><td>188888<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>dance event<\/td><td>dadar east,lokhandvala <\/td><td>1\/11\/13<\/td><td>5\/11\/13<\/td><td>188888<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:54 TIME:0.0424 Process:Event-AddNewEvent
+08-10-2013 11:10:00 DEBUG Processing Request Event
+08-10-2013 11:10:00 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:00 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:00 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:00 TIME:0.0106 Process:Event
+08-10-2013 11:10:29 DEBUG Processing Request Event
+08-10-2013 11:10:29 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:29 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:29 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:29 TIME:0.0198 Process:Event
+08-10-2013 11:10:19 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:19 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:19 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:19 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:19 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:19 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>dance<\/td><td>Vashi Navi Mumbai<\/td><td>1\/10\/13<\/td><td>5\/11\/13<\/td><td>900000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>dance<\/td><td>Vashi Navi Mumbai<\/td><td>1\/10\/13<\/td><td>5\/11\/13<\/td><td>900000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:19 TIME:0.0471 Process:Event-AddNewEvent
+08-10-2013 11:10:06 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 11:10:06 DEBUG in Main
+08-10-2013 11:10:15 DEBUG Processing Request Event
+08-10-2013 11:10:15 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:15 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:15 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:15 TIME:0.0197 Process:Event
+08-10-2013 11:10:17 DEBUG Processing Request Event
+08-10-2013 11:10:17 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:17 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:17 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:17 TIME:0.0199 Process:Event
+08-10-2013 11:10:47 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:47 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:47 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:47 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:47 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:47 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:47 TIME:0.0348 Process:Event-AddNewEvent
+08-10-2013 11:10:11 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:11 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:11 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:11 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:11 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:11 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:11 TIME:0.0613 Process:Event-AddNewEvent
+08-10-2013 11:10:15 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:15 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:15 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:15 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:15 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:15 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>music<\/td><td>mumbai<\/td><td>02\/12\/13<\/td><td>04\/12\/13<\/td><td>700000<\/td><td>raj@..yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:15 TIME:0.0698 Process:Event-AddNewEvent
+08-10-2013 11:10:19 DEBUG Processing Request Event
+08-10-2013 11:10:19 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:19 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:19 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:19 TIME:0.0190 Process:Event
+08-10-2013 11:10:56 DEBUG Processing Request Event
+08-10-2013 11:10:56 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:56 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:56 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:56 TIME:0.0198 Process:Event
+08-10-2013 11:10:02 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:02 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:02 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:02 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:02 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:02 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 11:10:02 TIME:0.0652 Process:Event-AddNewEvent
+08-10-2013 11:10:38 DEBUG Processing Request Event
+08-10-2013 11:10:38 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:38 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:38 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:39 TIME:0.0191 Process:Event
+08-10-2013 11:10:01 DEBUG Processing Request Event
+08-10-2013 11:10:01 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:01 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:01 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:01 TIME:0.0194 Process:Event
+08-10-2013 11:10:07 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:07 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:07 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:07 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:07 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:07 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 11:10:07 TIME:0.0065 Process:Event-AddNewEvent
+08-10-2013 11:10:32 DEBUG Processing Request Event
+08-10-2013 11:10:32 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:32 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:32 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:32 TIME:0.0199 Process:Event
+08-10-2013 11:10:06 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:06 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:06 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:06 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:06 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:06 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 11:10:06 TIME:0.0058 Process:Event-AddNewEvent
+08-10-2013 11:10:39 DEBUG Processing Request Event
+08-10-2013 11:10:39 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:39 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:39 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:39 TIME:0.0199 Process:Event
+08-10-2013 11:10:44 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:44 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:44 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:44 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:44 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:44 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:44 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3},{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 11:10:44 TIME:0.0055 Process:Event-AddNewEvent
+08-10-2013 11:10:12 DEBUG Processing Request Event
+08-10-2013 11:10:12 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:12 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:12 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:12 TIME:0.0189 Process:Event
+08-10-2013 11:10:21 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:21 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:21 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:21 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:21 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:21 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:21 TIME:0.0049 Process:Event-AddNewEvent
+08-10-2013 11:10:36 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:36 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:36 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:36 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:36 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:36 TIME:0.0051 Process:Event-AddNewEvent
+08-10-2013 11:10:42 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:42 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:42 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:42 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:42 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:42 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:42 TIME:0.0050 Process:Event-AddNewEvent
+08-10-2013 11:10:49 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:49 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:49 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:49 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:49 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:49 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:49 TIME:0.0049 Process:Event-AddNewEvent
+08-10-2013 11:10:54 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:54 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:54 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:54 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:54 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:54 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:54 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 11:10:59 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:59 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:59 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:59 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:59 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:59 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:59 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 11:10:08 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:08 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:08 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:08 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:08 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:08 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:08 TIME:0.0058 Process:Event-AddNewEvent
+08-10-2013 11:10:25 DEBUG Processing Request Event
+08-10-2013 11:10:25 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:25 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:25 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:25 TIME:0.0094 Process:Event
+08-10-2013 11:10:29 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 11:10:29 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 11:10:29 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 11:10:29 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 11:10:29 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 11:10:29 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 11:10:29 TIME:0.0063 Process:Event-AddNewEvent
+08-10-2013 11:10:40 DEBUG Processing Request Event
+08-10-2013 11:10:40 DEBUG Processing Request Event SIZE=1
+08-10-2013 11:10:40 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 11:10:40 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 11:10:40 TIME:0.0199 Process:Event
+08-10-2013 12:10:17 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:17 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:17 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:17 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:17 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:17 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 12:10:17 TIME:0.0169 Process:Event-AddNewEvent
+08-10-2013 12:10:53 DEBUG Processing Request Event
+08-10-2013 12:10:53 DEBUG Processing Request Event SIZE=1
+08-10-2013 12:10:53 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 12:10:53 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 12:10:53 TIME:0.0189 Process:Event
+08-10-2013 12:10:24 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:24 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:24 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:51 DEBUG Processing Request Event
+08-10-2013 12:10:51 DEBUG Processing Request Event SIZE=1
+08-10-2013 12:10:51 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 12:10:51 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 12:10:51 TIME:0.0193 Process:Event
+08-10-2013 12:10:11 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:11 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:11 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:11 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:11 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:11 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 12:10:11 TIME:0.0060 Process:Event-AddNewEvent
+08-10-2013 12:10:14 DEBUG Processing Request Masters
+08-10-2013 12:10:14 DEBUG Processing Request Masters SIZE=1
+08-10-2013 12:10:14 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 12:10:14 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 12:10:14 TIME:0.0240 Process:Masters
+08-10-2013 12:10:24 DEBUG Processing Request events
+08-10-2013 12:10:24 DEBUG Processing Request events SIZE=1
+08-10-2013 12:10:24 DUMP Array
+(
+    [0] => events
+)
+
+08-10-2013 12:10:24 TIME:0.0038 Process:events
+08-10-2013 12:10:29 DEBUG Processing Request event
+08-10-2013 12:10:29 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:29 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:29 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:29 TIME:0.0187 Process:event
+08-10-2013 12:10:33 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:33 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:33 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:33 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:33 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 12:10:33 TIME:0.0055 Process:Event-AddNewEvent
+08-10-2013 12:10:40 DEBUG Processing Request event
+08-10-2013 12:10:40 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:40 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:40 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:40 TIME:0.0090 Process:event
+08-10-2013 12:10:50 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:50 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:50 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:50 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:50 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:50 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 12:10:50 TIME:0.0075 Process:Event-AddNewEvent
+08-10-2013 12:10:10 DEBUG Processing Request event
+08-10-2013 12:10:10 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:10 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:10 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:10 TIME:0.0195 Process:event
+08-10-2013 12:10:20 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:20 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:20 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:20 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:20 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:20 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 12:10:20 TIME:0.0054 Process:Event-AddNewEvent
+08-10-2013 12:10:43 DEBUG Processing Request event
+08-10-2013 12:10:43 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:43 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:43 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:43 TIME:0.0189 Process:event
+08-10-2013 12:10:01 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:01 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:01 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:01 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:01 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:01 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Email Address","Ctrl_Type":3}]}
+08-10-2013 12:10:01 TIME:0.0065 Process:Event-AddNewEvent
+08-10-2013 12:10:15 DEBUG Processing Request event
+08-10-2013 12:10:15 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:15 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:15 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:15 TIME:0.0190 Process:event
+08-10-2013 12:10:30 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:30 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:30 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:30 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:30 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:30 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"DBError-","Ctrl_Type":3}]}
+08-10-2013 12:10:30 TIME:0.0057 Process:Event-AddNewEvent
+08-10-2013 12:10:20 DEBUG Processing Request event
+08-10-2013 12:10:20 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:20 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:20 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:20 TIME:0.0212 Process:event
+08-10-2013 12:10:36 DEBUG Processing Request event
+08-10-2013 12:10:36 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:36 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:36 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:36 TIME:0.0215 Process:event
+08-10-2013 12:10:27 DEBUG Processing Request event
+08-10-2013 12:10:27 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:27 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:27 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:27 TIME:0.0207 Process:event
+08-10-2013 12:10:40 DEBUG Processing Request event
+08-10-2013 12:10:40 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:40 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:40 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:40 TIME:0.0219 Process:event
+08-10-2013 12:10:58 DEBUG Processing Request event
+08-10-2013 12:10:58 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:58 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:58 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:58 TIME:0.0116 Process:event
+08-10-2013 12:10:15 DEBUG Processing Request event
+08-10-2013 12:10:15 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:15 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:15 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:15 TIME:0.0219 Process:event
+08-10-2013 12:10:20 DEBUG Processing Request event
+08-10-2013 12:10:20 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:20 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:20 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:20 TIME:0.0195 Process:event
+08-10-2013 12:10:27 DEBUG Processing Request event
+08-10-2013 12:10:27 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:27 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:27 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:27 TIME:0.0090 Process:event
+08-10-2013 12:10:43 DEBUG Processing Request event
+08-10-2013 12:10:43 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:43 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:43 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:43 TIME:0.0200 Process:event
+08-10-2013 12:10:02 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:02 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:02 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:02 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:02 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:02 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Event Name ","Ctrl_Type":3}]}
+08-10-2013 12:10:02 TIME:0.0060 Process:Event-AddNewEvent
+08-10-2013 12:10:30 DEBUG Processing Request event
+08-10-2013 12:10:30 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:30 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:30 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:30 TIME:0.0194 Process:event
+08-10-2013 12:10:36 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:36 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:36 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:36 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:36 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Event Name ","Ctrl_Type":3}]}
+08-10-2013 12:10:36 TIME:0.0054 Process:Event-AddNewEvent
+08-10-2013 12:10:47 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:47 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:47 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:47 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:47 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:47 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid Start Date","Ctrl_Type":3}]}
+08-10-2013 12:10:47 TIME:0.0050 Process:Event-AddNewEvent
+08-10-2013 12:10:16 DEBUG Processing Request event
+08-10-2013 12:10:16 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:16 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:16 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:16 TIME:0.0188 Process:event
+08-10-2013 12:10:28 DEBUG Processing Request Event
+08-10-2013 12:10:28 DEBUG Processing Request Event SIZE=1
+08-10-2013 12:10:28 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 12:10:28 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 12:10:28 TIME:0.0189 Process:Event
+08-10-2013 12:10:24 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:24 DEBUG in Main
+08-10-2013 12:10:43 DEBUG Processing Request event
+08-10-2013 12:10:43 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:43 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:43 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:43 TIME:0.0191 Process:event
+08-10-2013 12:10:51 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:51 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:51 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:51 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:51 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:51 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid Start Date","Ctrl_Type":3}]}
+08-10-2013 12:10:51 TIME:0.0058 Process:Event-AddNewEvent
+08-10-2013 12:10:57 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:57 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:57 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:57 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:57 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:57 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid Start Date","Ctrl_Type":3}]}
+08-10-2013 12:10:57 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 12:10:16 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:16 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:16 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:16 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:16 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:16 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 12:10:16 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 12:10:24 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:24 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:24 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:24 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 12:10:24 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 12:10:38 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:38 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:38 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:38 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:38 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Test<\/td><td>dexed fcfr rfcrfcv rfcrfvcr r4frfr<\/td><td>02\/12\/13<\/td><td>04\/02\/14<\/td><td>700000<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Test<\/td><td>dexed fcfr rfcrfcv rfcrfvcr r4frfr<\/td><td>02\/12\/13<\/td><td>04\/02\/14<\/td><td>700000<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 12:10:38 TIME:0.0443 Process:Event-AddNewEvent
+08-10-2013 12:10:44 DEBUG Processing Request event
+08-10-2013 12:10:44 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:44 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:44 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:44 TIME:0.0190 Process:event
+08-10-2013 12:10:47 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:47 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:47 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:47 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:47 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:47 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Tester<\/td><td>mumbai vashi borivali<\/td><td>5\/11\/13<\/td><td>10\/10\/13<\/td><td>800000<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Tester<\/td><td>mumbai vashi borivali<\/td><td>5\/11\/13<\/td><td>10\/10\/13<\/td><td>800000<\/td><td>raj@yahoo.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 12:10:47 TIME:0.0417 Process:Event-AddNewEvent
+08-10-2013 12:10:54 DEBUG Processing Request event
+08-10-2013 12:10:54 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:54 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:54 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:54 TIME:0.0186 Process:event
+08-10-2013 12:10:46 DEBUG Processing Request event
+08-10-2013 12:10:46 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:46 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:46 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:46 TIME:0.0090 Process:event
+08-10-2013 12:10:44 DEBUG Processing Request event
+08-10-2013 12:10:44 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:44 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:44 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:45 TIME:0.0192 Process:event
+08-10-2013 12:10:45 DEBUG Processing Request event
+08-10-2013 12:10:45 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:45 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:45 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:45 TIME:0.0193 Process:event
+08-10-2013 12:10:18 DEBUG Processing Request event
+08-10-2013 12:10:18 DEBUG Processing Request event SIZE=1
+08-10-2013 12:10:18 DUMP Array
+(
+    [0] => event
+)
+
+08-10-2013 12:10:18 DEBUG SHOW VIEW : Classevent
+08-10-2013 12:10:18 TIME:0.0192 Process:event
+08-10-2013 12:10:29 DEBUG Processing Request Login
+08-10-2013 12:10:29 DEBUG Processing Request Login SIZE=1
+08-10-2013 12:10:29 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 12:10:29 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 12:10:29 TIME:0.0048 Process:Login
+08-10-2013 12:10:32 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:32 DEBUG in Main
+08-10-2013 12:10:13 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:13 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:13 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:13 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:13 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:13 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+08-10-2013 12:10:13 TIME:0.0051 Process:User-LoginProcess
+08-10-2013 12:10:19 DEBUG Processing Request Login
+08-10-2013 12:10:19 DEBUG Processing Request Login SIZE=1
+08-10-2013 12:10:19 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 12:10:19 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 12:10:19 TIME:0.0049 Process:Login
+08-10-2013 12:10:21 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:21 DEBUG in Main
+08-10-2013 12:10:58 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:58 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:58 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:58 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:58 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:11 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:11 DEBUG in Main
+08-10-2013 12:10:24 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:24 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:24 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:24 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:24 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid login","Ctrl_Type":3}]}
+08-10-2013 12:10:24 TIME:0.0208 Process:User-LoginProcess
+08-10-2013 12:10:44 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:44 DEBUG in Main
+08-10-2013 12:10:52 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:52 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:52 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:52 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:52 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:52 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid login","Ctrl_Type":3}]}
+08-10-2013 12:10:52 TIME:0.0225 Process:User-LoginProcess
+08-10-2013 12:10:33 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:33 DEBUG in Main
+08-10-2013 12:10:41 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:41 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:41 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:41 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:41 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:41 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Event","Ctrl_Type":5}]}
+08-10-2013 12:10:41 TIME:0.0302 Process:User-LoginProcess
+08-10-2013 12:10:27 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:27 DEBUG in Main
+08-10-2013 12:10:39 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:39 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:39 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:39 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:39 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:39 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Event","Ctrl_Type":5}]}
+08-10-2013 12:10:39 TIME:0.0307 Process:User-LoginProcess
+08-10-2013 12:10:30 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:30 DEBUG in Main
+08-10-2013 12:10:52 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 12:10:52 DEBUG in Main
+08-10-2013 12:10:06 DEBUG Processing Request User-LoginProcess
+08-10-2013 12:10:06 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 12:10:06 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 12:10:06 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 12:10:06 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 12:10:06 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Event","Ctrl_Type":5}]}
+08-10-2013 12:10:06 TIME:0.0208 Process:User-LoginProcess
+08-10-2013 12:10:07 DEBUG Processing Request Event
+08-10-2013 12:10:07 DEBUG Processing Request Event SIZE=1
+08-10-2013 12:10:07 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 12:10:07 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 12:10:07 TIME:0.0188 Process:Event
+08-10-2013 12:10:55 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 12:10:55 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 12:10:55 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 12:10:55 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 12:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 12:10:55 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Visitor-FormError","Ctrl_Value":"Event Successfully Added","Ctrl_Type":3},{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Exhibition<\/td><td>Goregoan west,Mumbai <\/td><td>17\/10\/13<\/td><td>20\/10\/13<\/td><td>100002<\/td><td>exhi@gmail.com<\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Exhibition<\/td><td>Goregoan west,Mumbai <\/td><td>17\/10\/13<\/td><td>20\/10\/13<\/td><td>100002<\/td><td>exhi@gmail.com<\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 12:10:55 TIME:0.0499 Process:Event-AddNewEvent
+08-10-2013 01:10:01 DEBUG Processing Request Event
+08-10-2013 01:10:01 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:01 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:01 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:01 TIME:0.0087 Process:Event
+08-10-2013 01:10:18 DEBUG Processing Request Event
+08-10-2013 01:10:18 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:18 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:18 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:18 TIME:0.0192 Process:Event
+08-10-2013 01:10:23 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:23 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:23 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:23 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:23 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:23 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 01:10:23 TIME:0.0059 Process:Event-AddNewEvent
+08-10-2013 01:10:31 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:31 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:31 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:31 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:31 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:31 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 01:10:31 TIME:0.0052 Process:Event-AddNewEvent
+08-10-2013 01:10:46 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:46 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:46 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:46 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:46 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:46 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Dance Function<\/td><td>khargar east , vashi 410210 Navi Mumbai<\/td><td>17\/10\/14<\/td><td>19\/10\/14<\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Dance Function<\/td><td>khargar east , vashi 410210 Navi Mumbai<\/td><td>17\/10\/14<\/td><td>19\/10\/14<\/td><td><\/td><td><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:46 TIME:0.0462 Process:Event-AddNewEvent
+08-10-2013 01:10:59 DEBUG Processing Request Event
+08-10-2013 01:10:59 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:59 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:59 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:59 TIME:0.0196 Process:Event
+08-10-2013 01:10:14 DEBUG Processing Request Event
+08-10-2013 01:10:14 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:14 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:14 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:14 TIME:0.0200 Process:Event
+08-10-2013 01:10:10 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:10 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:10 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:10 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:10 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:10 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Music<\/td><td>Bandra Kurla cOMPLEX MUMBAI<\/td><td>01\/01\/14<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Music<\/td><td>Bandra Kurla cOMPLEX MUMBAI<\/td><td>01\/01\/14<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:10 TIME:0.0831 Process:Event-AddNewEvent
+08-10-2013 01:10:19 DEBUG Processing Request Event
+08-10-2013 01:10:19 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:19 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:19 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:19 TIME:0.0197 Process:Event
+08-10-2013 01:10:44 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:44 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:44 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:44 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:44 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:44 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Tester<\/td><td>Testing this address if it is working properly<\/td><td>01\/01\/14<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-5');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Tester<\/td><td>Testing this address if it is working properly<\/td><td>01\/01\/14<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-5');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:44 TIME:0.0575 Process:Event-AddNewEvent
+08-10-2013 01:10:19 DEBUG Processing Request Event-OpenEvent-5
+08-10-2013 01:10:19 DEBUG Processing Request Event-OpenEvent-5 SIZE=3
+08-10-2013 01:10:19 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 5
+)
+
+08-10-2013 01:10:19 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:19 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+08-10-2013 01:10:19 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+08-10-2013 01:10:19 TIME:0.0043 Process:Event-OpenEvent-5
+08-10-2013 01:10:20 DEBUG Processing Request Visitor
+08-10-2013 01:10:20 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 01:10:20 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 01:10:20 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 01:10:20 TIME:0.0240 Process:Visitor
+08-10-2013 01:10:24 DEBUG Processing Request Event
+08-10-2013 01:10:24 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:24 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:24 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:24 TIME:0.0193 Process:Event
+08-10-2013 01:10:23 DEBUG Processing Request Event
+08-10-2013 01:10:23 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:23 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:13 DEBUG Processing Request Event
+08-10-2013 01:10:13 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:13 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:23 DEBUG Processing Request Event
+08-10-2013 01:10:23 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:23 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:23 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:23 TIME:0.0191 Process:Event
+08-10-2013 01:10:07 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:07 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:07 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:07 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:07 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:07 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 01:10:07 TIME:0.0054 Process:Event-AddNewEvent
+08-10-2013 01:10:22 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 01:10:22 DEBUG in Main
+08-10-2013 01:10:43 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:43 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:43 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:43 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:43 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:43 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 01:10:43 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 01:10:48 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:48 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:48 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:48 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:48 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:48 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Social Science<\/td><td>goregaon west,nesscom,mumbai <\/td><td>02\/12\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-6');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Social Science<\/td><td>goregaon west,nesscom,mumbai <\/td><td>02\/12\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-6');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:48 TIME:0.0449 Process:Event-AddNewEvent
+08-10-2013 01:10:42 DEBUG Processing Request Event
+08-10-2013 01:10:42 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:42 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:02 DEBUG Processing Request Event
+08-10-2013 01:10:02 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:02 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:02 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:03 TIME:0.0190 Process:Event
+08-10-2013 01:10:38 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:38 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:38 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:38 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:38 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>Goregaon nesscom mumbai<\/td><td>20\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-7');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>Goregaon nesscom mumbai<\/td><td>20\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-7');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:38 TIME:0.0484 Process:Event-AddNewEvent
+08-10-2013 01:10:24 DEBUG Processing Request Event
+08-10-2013 01:10:24 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:24 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:50 DEBUG Processing Request Event
+08-10-2013 01:10:50 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:50 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:52 DEBUG Processing Request Event
+08-10-2013 01:10:52 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:52 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:07 DEBUG Processing Request Event
+08-10-2013 01:10:07 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:07 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:08 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:08 TIME:0.0199 Process:Event
+08-10-2013 01:10:27 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:27 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:27 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:27 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:27 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:27 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>goregaon nesccom mumbai<\/td><td>20\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-8');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>goregaon nesccom mumbai<\/td><td>20\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-8');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:27 TIME:0.0473 Process:Event-AddNewEvent
+08-10-2013 01:10:45 DEBUG Processing Request Event
+08-10-2013 01:10:45 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:45 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:45 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:45 TIME:0.0199 Process:Event
+08-10-2013 01:10:09 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:09 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:09 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:09 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:09 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:09 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Social Science<\/td><td>malad  west mumbai<\/td><td>17\/10\/14<\/td><td>4<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-9');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Social Science<\/td><td>malad  west mumbai<\/td><td>17\/10\/14<\/td><td>4<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-9');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:09 TIME:0.0736 Process:Event-AddNewEvent
+08-10-2013 01:10:22 DEBUG Processing Request Event
+08-10-2013 01:10:22 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:22 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:22 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:22 TIME:0.0198 Process:Event
+08-10-2013 01:10:07 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:07 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:07 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:07 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:07 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:07 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Blood Camp<\/td><td>Bhagvati Hospital jogeshwari<\/td><td>22\/12\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-10');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Blood Camp<\/td><td>Bhagvati Hospital jogeshwari<\/td><td>22\/12\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-10');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:07 TIME:0.0415 Process:Event-AddNewEvent
+08-10-2013 01:10:57 DEBUG Processing Request Event
+08-10-2013 01:10:57 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:57 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:57 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:57 TIME:0.0196 Process:Event
+08-10-2013 01:10:33 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:33 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:33 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:33 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:33 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Blood Camp<\/td><td>BHagwati hospital jogeshwari<\/td><td>22\/12\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-8');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Blood Camp<\/td><td>BHagwati hospital jogeshwari<\/td><td>22\/12\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-8');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:33 TIME:0.0449 Process:Event-AddNewEvent
+08-10-2013 01:10:59 DEBUG Processing Request Event
+08-10-2013 01:10:59 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:59 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:59 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:59 TIME:0.0191 Process:Event
+08-10-2013 01:10:34 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:34 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:34 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:34 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:34 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:34 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>NetworkingProject <\/td><td>Vadiyavihar mumbai thane <\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-12');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>NetworkingProject <\/td><td>Vadiyavihar mumbai thane <\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-12');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:34 TIME:0.0502 Process:Event-AddNewEvent
+08-10-2013 01:10:43 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:43 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:43 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:43 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:43 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:43 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Software project<\/td><td>Nesscom Goregaon ,Mumbai <\/td><td>17\/01\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-13');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Software project<\/td><td>Nesscom Goregaon ,Mumbai <\/td><td>17\/01\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-13');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:43 TIME:0.0274 Process:Event-AddNewEvent
+08-10-2013 01:10:43 DEBUG Processing Request Event
+08-10-2013 01:10:43 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:43 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:43 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:43 TIME:0.0202 Process:Event
+08-10-2013 01:10:05 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:05 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:05 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:05 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:05 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:05 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Social Science<\/td><td>mumbai vashi naigaon<\/td><td>17\/10\/14<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-14');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Social Science<\/td><td>mumbai vashi naigaon<\/td><td>17\/10\/14<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-14');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:05 TIME:0.0491 Process:Event-AddNewEvent
+08-10-2013 01:10:34 DEBUG Processing Request Event
+08-10-2013 01:10:34 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:34 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:34 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:34 TIME:0.0195 Process:Event
+08-10-2013 01:10:56 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:56 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:56 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:56 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:56 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:56 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Software project<\/td><td>gujrat,mumbai,banglore<\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-15');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Software project<\/td><td>gujrat,mumbai,banglore<\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-15');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:56 TIME:0.0488 Process:Event-AddNewEvent
+08-10-2013 01:10:18 DEBUG Processing Request Event
+08-10-2013 01:10:18 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:18 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:18 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:18 TIME:0.0197 Process:Event
+08-10-2013 01:10:57 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:57 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:57 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:57 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:57 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:57 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 01:10:57 TIME:0.0055 Process:Event-AddNewEvent
+08-10-2013 01:10:06 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:06 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:06 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:06 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:06 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:06 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Software project<\/td><td>rajhasthan,banglore,mumbai<\/td><td>1\/10\/13<\/td><td>20<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-16');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Software project<\/td><td>rajhasthan,banglore,mumbai<\/td><td>1\/10\/13<\/td><td>20<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-16');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:06 TIME:0.0481 Process:Event-AddNewEvent
+08-10-2013 01:10:57 DEBUG Processing Request Event
+08-10-2013 01:10:57 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:57 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:57 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:57 TIME:0.0201 Process:Event
+08-10-2013 01:10:21 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:21 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:21 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:21 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:21 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:21 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>aaaaaaaaazaasaaaaaaaaaaaaaaaa<\/td><td>1\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-17');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>NGO Grp<\/td><td>aaaaaaaaazaasaaaaaaaaaaaaaaaa<\/td><td>1\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-17');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:21 TIME:0.0490 Process:Event-AddNewEvent
+08-10-2013 01:10:06 DEBUG Processing Request Event
+08-10-2013 01:10:06 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:06 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:06 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:06 TIME:0.0188 Process:Event
+08-10-2013 01:10:35 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 01:10:35 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 01:10:35 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 01:10:35 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 01:10:35 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 01:10:35 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Green world<\/td><td>Mumbai mumbai mumbai mumbai<\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-18');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Green world<\/td><td>Mumbai mumbai mumbai mumbai<\/td><td>1\/10\/13<\/td><td>1<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-18');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 01:10:35 TIME:0.0583 Process:Event-AddNewEvent
+08-10-2013 01:10:34 DEBUG Processing Request Event
+08-10-2013 01:10:34 DEBUG Processing Request Event SIZE=1
+08-10-2013 01:10:34 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 01:10:34 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 01:10:34 TIME:0.0203 Process:Event
+08-10-2013 02:10:04 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:04 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:04 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:04 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:04 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:04 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>NetworkingProject<\/td><td>goregaon west mumbai <\/td><td>1\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-7');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>NetworkingProject<\/td><td>goregaon west mumbai <\/td><td>1\/10\/13<\/td><td>12<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-7');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 02:10:04 TIME:0.0635 Process:Event-AddNewEvent
+08-10-2013 02:10:09 DEBUG Processing Request Event
+08-10-2013 02:10:09 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:09 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:09 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:09 TIME:0.0197 Process:Event
+08-10-2013 02:10:13 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:13 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:13 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:13 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:13 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:13 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Event Name ","Ctrl_Type":3}]}
+08-10-2013 02:10:13 TIME:0.0054 Process:Event-AddNewEvent
+08-10-2013 02:10:21 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:21 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:21 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:21 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:21 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:21 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid Start Date","Ctrl_Type":3}]}
+08-10-2013 02:10:21 TIME:0.0050 Process:Event-AddNewEvent
+08-10-2013 02:10:30 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:30 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:30 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:30 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:30 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:30 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid End Date","Ctrl_Type":3}]}
+08-10-2013 02:10:30 TIME:0.0058 Process:Event-AddNewEvent
+08-10-2013 02:10:43 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:43 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:43 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:43 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:43 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:43 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Testing<\/td><td><\/td><td>12\/12\/12<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-20');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Testing<\/td><td><\/td><td>12\/12\/12<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-20');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 02:10:43 TIME:0.0551 Process:Event-AddNewEvent
+08-10-2013 02:10:37 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:37 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:37 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:37 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:37 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:37 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 02:10:37 TIME:0.0050 Process:Event-AddNewEvent
+08-10-2013 02:10:56 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:56 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:56 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:56 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:56 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:56 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Tester<\/td><td>Testing this place to be available for my marriage<\/td><td>12\/12\/12<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-21');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Tester<\/td><td>Testing this place to be available for my marriage<\/td><td>12\/12\/12<\/td><td><\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-21');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 02:10:56 TIME:0.0584 Process:Event-AddNewEvent
+08-10-2013 02:10:57 DEBUG Processing Request Event
+08-10-2013 02:10:57 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:57 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:57 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:57 TIME:0.0203 Process:Event
+08-10-2013 02:10:27 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:27 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:27 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:27 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:27 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:15 DEBUG Processing Request Event
+08-10-2013 02:10:15 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:15 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:15 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:15 TIME:0.0192 Process:Event
+08-10-2013 02:10:31 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:31 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:31 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:31 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:31 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:31 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid SMSID","Ctrl_Type":3}]}
+08-10-2013 02:10:31 TIME:0.0056 Process:Event-AddNewEvent
+08-10-2013 02:10:46 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:46 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:46 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:46 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:46 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:46 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid SMSID","Ctrl_Type":3}]}
+08-10-2013 02:10:46 TIME:0.0052 Process:Event-AddNewEvent
+08-10-2013 02:10:55 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:55 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:55 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:55 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:55 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Testing<\/td><td><\/td><td>12\/12\/12<\/td><td>MANOJM<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-22');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Testing<\/td><td><\/td><td>12\/12\/12<\/td><td>MANOJM<\/td><td><\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-22');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 02:10:55 TIME:0.0516 Process:Event-AddNewEvent
+08-10-2013 02:10:13 DEBUG Processing Request Event
+08-10-2013 02:10:13 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:13 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:13 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:13 TIME:0.0199 Process:Event
+08-10-2013 02:10:03 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:03 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:03 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:03 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:03 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:03 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 02:10:03 TIME:0.0058 Process:Event-AddNewEvent
+08-10-2013 02:10:33 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:33 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:33 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:33 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:33 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not a valid address","Ctrl_Type":3}]}
+08-10-2013 02:10:33 TIME:0.0057 Process:Event-AddNewEvent
+08-10-2013 02:10:12 DEBUG Processing Request Event
+08-10-2013 02:10:12 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:12 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:12 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:12 TIME:0.0197 Process:Event
+08-10-2013 02:10:38 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:38 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:38 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:38 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:38 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:16 DEBUG Processing Request Event
+08-10-2013 02:10:16 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:16 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:16 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:16 TIME:0.0190 Process:Event
+08-10-2013 02:10:31 DEBUG Processing Request Event
+08-10-2013 02:10:31 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:31 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:31 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:31 TIME:0.0198 Process:Event
+08-10-2013 02:10:35 DEBUG Processing Request Event
+08-10-2013 02:10:35 DEBUG Processing Request Event SIZE=1
+08-10-2013 02:10:35 DUMP Array
+(
+    [0] => Event
+)
+
+08-10-2013 02:10:35 DEBUG SHOW VIEW : ClassEvent
+08-10-2013 02:10:35 TIME:0.0192 Process:Event
+08-10-2013 02:10:04 DEBUG Processing Request Event-AddNewEvent
+08-10-2013 02:10:04 DEBUG Processing Request Event-AddNewEvent SIZE=2
+08-10-2013 02:10:04 DUMP Array
+(
+    [0] => Event
+    [1] => AddNewEvent
+)
+
+08-10-2013 02:10:04 DEBUG PROCESS VIEW : Calling ClassEvent
+08-10-2013 02:10:04 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 02:10:04 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"EventGrid","Ctrl_Value":"<tr><td>Green world<\/td><td>goregaon west navi mumbai 411<\/td><td>17\/10\/14<\/td><td>A10005<\/td><td>gree@gmailcom<\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-23');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":1},{"Ctrl_Name":"Event-AddNewEvent","Ctrl_Value":"<tr><td>Green world<\/td><td>goregaon west navi mumbai 411<\/td><td>17\/10\/14<\/td><td>A10005<\/td><td>gree@gmailcom<\/td><td><span class=\"formbutton\" onclick=\"urllocation('Event-OpenEvent-23');\">Add Visitors<\/span><\/td><\/tr>","Ctrl_Type":6}]}
+08-10-2013 02:10:04 TIME:0.0619 Process:Event-AddNewEvent
+08-10-2013 02:10:56 DEBUG Processing Request Visitor
+08-10-2013 02:10:56 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:56 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:56 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:56 TIME:0.0092 Process:Visitor
+08-10-2013 02:10:11 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 02:10:11 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 02:10:11 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 02:10:11 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 02:10:11 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 02:10:02 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:02 DEBUG in Main
+08-10-2013 02:10:47 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:47 DEBUG in Main
+08-10-2013 02:10:27 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:27 DEBUG in Main
+08-10-2013 02:10:33 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:33 DEBUG in Main
+08-10-2013 02:10:37 DEBUG Processing Request Login
+08-10-2013 02:10:37 DEBUG Processing Request Login SIZE=1
+08-10-2013 02:10:37 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 02:10:37 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 02:10:37 TIME:0.0061 Process:Login
+08-10-2013 02:10:11 DEBUG Processing Request Login
+08-10-2013 02:10:11 DEBUG Processing Request Login SIZE=1
+08-10-2013 02:10:11 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 02:10:11 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 02:10:11 TIME:0.0051 Process:Login
+08-10-2013 02:10:21 DEBUG Processing Request Login
+08-10-2013 02:10:21 DEBUG Processing Request Login SIZE=1
+08-10-2013 02:10:21 DUMP Array
+(
+    [0] => Login
+)
+
+08-10-2013 02:10:21 DEBUG SHOW VIEW : ClassLogin
+08-10-2013 02:10:21 TIME:0.0224 Process:Login
+08-10-2013 02:10:26 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:26 DEBUG in Main
+08-10-2013 02:10:41 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:41 DEBUG in Main
+08-10-2013 02:10:54 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:54 DEBUG in Main
+08-10-2013 02:10:14 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:14 DEBUG in Main
+08-10-2013 02:10:32 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:32 DEBUG in Main
+08-10-2013 02:10:26 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 02:10:26 DEBUG in Main
+08-10-2013 02:10:51 DEBUG Processing Request Visitor
+08-10-2013 02:10:51 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:51 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:51 TIME:0.0095 Process:Visitor
+08-10-2013 02:10:31 DEBUG Processing Request Visitor
+08-10-2013 02:10:31 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:31 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:31 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:31 TIME:0.0203 Process:Visitor
+08-10-2013 02:10:33 DEBUG Processing Request Visitor
+08-10-2013 02:10:33 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:33 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:33 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:33 TIME:0.0196 Process:Visitor
+08-10-2013 02:10:03 DEBUG Processing Request Visitor
+08-10-2013 02:10:03 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:03 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:03 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:03 TIME:0.0196 Process:Visitor
+08-10-2013 02:10:51 DEBUG Processing Request Visitor
+08-10-2013 02:10:51 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:51 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:51 TIME:0.0201 Process:Visitor
+08-10-2013 02:10:19 DEBUG Processing Request Visitor
+08-10-2013 02:10:19 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:19 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:19 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:19 TIME:0.0201 Process:Visitor
+08-10-2013 02:10:02 DEBUG Processing Request Visitor
+08-10-2013 02:10:02 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 02:10:02 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 02:10:02 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 02:10:02 TIME:0.0194 Process:Visitor
+08-10-2013 03:10:51 DEBUG Processing Request Visitor
+08-10-2013 03:10:51 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:51 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:51 TIME:0.0098 Process:Visitor
+08-10-2013 03:10:42 DEBUG Processing Request Visitor
+08-10-2013 03:10:42 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:42 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:42 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:42 TIME:0.0196 Process:Visitor
+08-10-2013 03:10:42 DEBUG Processing Request Visitor
+08-10-2013 03:10:42 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:42 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:42 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:42 TIME:0.0197 Process:Visitor
+08-10-2013 03:10:04 DEBUG Processing Request User-LoginProcess
+08-10-2013 03:10:04 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 03:10:04 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 03:10:04 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 03:10:04 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 03:10:04 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+08-10-2013 03:10:04 TIME:0.0055 Process:User-LoginProcess
+08-10-2013 03:10:02 DEBUG Processing Request Visitor
+08-10-2013 03:10:02 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:02 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:02 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:02 TIME:0.0187 Process:Visitor
+08-10-2013 03:10:06 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 03:10:06 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 03:10:06 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 03:10:06 TIME:0.0040 Process:AddressormDelayLoad
+08-10-2013 03:10:19 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 03:10:19 DEBUG in Main
+08-10-2013 03:10:32 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 03:10:32 DEBUG in Main
+08-10-2013 03:10:58 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 03:10:58 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 03:10:58 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 03:10:58 TIME:0.0040 Process:AddressormDelayLoad
+08-10-2013 03:10:43 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 03:10:43 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 03:10:43 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 03:10:43 TIME:0.0036 Process:AddressormDelayLoad
+08-10-2013 03:10:49 DEBUG Processing Request AddressormDelayLoad
+08-10-2013 03:10:49 DEBUG Processing Request AddressormDelayLoad SIZE=1
+08-10-2013 03:10:49 DUMP Array
+(
+    [0] => AddressormDelayLoad
+)
+
+08-10-2013 03:10:49 TIME:0.0044 Process:AddressormDelayLoad
+08-10-2013 03:10:50 DEBUG Processing Request Visitor
+08-10-2013 03:10:50 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:50 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:50 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:50 TIME:0.0197 Process:Visitor
+08-10-2013 03:10:00 DEBUG Processing Request AddressDelayLoad
+08-10-2013 03:10:00 DEBUG Processing Request AddressDelayLoad SIZE=1
+08-10-2013 03:10:00 DUMP Array
+(
+    [0] => AddressDelayLoad
+)
+
+08-10-2013 03:10:00 TIME:0.0040 Process:AddressDelayLoad
+08-10-2013 03:10:07 DEBUG Processing Request Visitor
+08-10-2013 03:10:07 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:07 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:07 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:07 TIME:0.0191 Process:Visitor
+08-10-2013 03:10:10 DEBUG Processing Request AddressDelayLoad
+08-10-2013 03:10:10 DEBUG Processing Request AddressDelayLoad SIZE=1
+08-10-2013 03:10:10 DUMP Array
+(
+    [0] => AddressDelayLoad
+)
+
+08-10-2013 03:10:10 TIME:0.0041 Process:AddressDelayLoad
+08-10-2013 03:10:12 DEBUG Processing Request Visitor
+08-10-2013 03:10:12 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:12 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:12 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:12 TIME:0.0089 Process:Visitor
+08-10-2013 03:10:28 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 03:10:28 DEBUG in Main
+08-10-2013 03:10:16 DEBUG Processing Request Visitor
+08-10-2013 03:10:16 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:16 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:16 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:16 TIME:0.0186 Process:Visitor
+08-10-2013 03:10:10 DEBUG Processing Request Visitor
+08-10-2013 03:10:10 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:10 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:10 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:10 TIME:0.0198 Process:Visitor
+08-10-2013 03:10:26 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 03:10:26 DEBUG in Main
+08-10-2013 03:10:55 DEBUG Processing Request Visitor
+08-10-2013 03:10:55 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:55 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:55 TIME:0.0200 Process:Visitor
+08-10-2013 03:10:04 DEBUG Processing Request Visitor-AddVisitor
+08-10-2013 03:10:04 DEBUG Processing Request Visitor-AddVisitor SIZE=2
+08-10-2013 03:10:04 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddVisitor
+)
+
+08-10-2013 03:10:04 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 03:10:04 DEBUG PROCESS VIEW : Calling FunctionAddVisitor
+08-10-2013 03:10:33 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 03:10:33 DEBUG in Main
+08-10-2013 03:10:31 DEBUG Processing Request Visitor
+08-10-2013 03:10:31 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:31 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:31 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:31 TIME:0.0194 Process:Visitor
+08-10-2013 03:10:35 DEBUG Processing Request Visitor-AddVisitor
+08-10-2013 03:10:35 DEBUG Processing Request Visitor-AddVisitor SIZE=2
+08-10-2013 03:10:35 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddVisitor
+)
+
+08-10-2013 03:10:35 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 03:10:35 DEBUG PROCESS VIEW : Calling FunctionAddVisitor
+08-10-2013 03:10:49 DEBUG Processing Request Visitor
+08-10-2013 03:10:49 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:49 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:49 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:49 TIME:0.0193 Process:Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:08 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:08 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:08 TIME:0.0090 Process:Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:08 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:08 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:08 TIME:0.0184 Process:Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor
+08-10-2013 03:10:08 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:08 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:08 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:08 TIME:0.0198 Process:Visitor
+08-10-2013 03:10:09 DEBUG Processing Request Visitor
+08-10-2013 03:10:09 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:09 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:09 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:09 TIME:0.0198 Process:Visitor
+08-10-2013 03:10:14 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 03:10:14 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 03:10:14 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 03:10:14 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 03:10:14 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 03:10:31 DEBUG Processing Request Visitor
+08-10-2013 03:10:31 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 03:10:31 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 03:10:31 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 03:10:31 TIME:0.0205 Process:Visitor
+08-10-2013 03:10:45 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 03:10:45 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 03:10:45 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 03:10:45 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 03:10:45 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 04:10:10 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:10 DEBUG in Main
+08-10-2013 04:10:15 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:15 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:15 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:15 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:15 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:15 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+08-10-2013 04:10:15 TIME:0.0057 Process:User-LoginProcess
+08-10-2013 04:10:25 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:25 DEBUG in Main
+08-10-2013 04:10:33 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:33 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:33 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:33 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:33 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Username","Ctrl_Type":3}]}
+08-10-2013 04:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Username","Ctrl_Type":3},{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid login","Ctrl_Type":3}]}
+08-10-2013 04:10:33 TIME:0.0087 Process:User-LoginProcess
+08-10-2013 04:10:41 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:41 DEBUG in Main
+08-10-2013 04:10:52 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:52 DEBUG in Main
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:58 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:58 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":3}]}
+08-10-2013 04:10:58 TIME:0.0055 Process:User-LoginProcess
+08-10-2013 04:10:29 DEBUG Processing Request Dashboard
+08-10-2013 04:10:29 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:29 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:29 TIME:0.0071 Process:Dashboard
+08-10-2013 04:10:54 DEBUG Processing Request Dashboard
+08-10-2013 04:10:54 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:54 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:54 TIME:0.0043 Process:Dashboard
+08-10-2013 04:10:06 DEBUG Processing Request Dashboard
+08-10-2013 04:10:06 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:06 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:06 TIME:0.0037 Process:Dashboard
+08-10-2013 04:10:22 DEBUG Processing Request Dashboard
+08-10-2013 04:10:22 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:22 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:22 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:22 TIME:0.0094 Process:Dashboard
+08-10-2013 04:10:40 DEBUG Processing Request Dashboard
+08-10-2013 04:10:40 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:40 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:40 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:40 TIME:0.0069 Process:Dashboard
+08-10-2013 04:10:56 DEBUG Processing Request Dashboard
+08-10-2013 04:10:56 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:56 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:56 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:56 TIME:0.0037 Process:Dashboard
+08-10-2013 04:10:06 DEBUG Processing Request Dashboard
+08-10-2013 04:10:06 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:06 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:06 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:06 TIME:0.0046 Process:Dashboard
+08-10-2013 04:10:13 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:13 DEBUG in Main
+08-10-2013 04:10:50 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:50 DEBUG in Main
+08-10-2013 04:10:39 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:39 DEBUG in Main
+08-10-2013 04:10:39 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:39 DEBUG in Main
+08-10-2013 04:10:08 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:08 DEBUG in Main
+08-10-2013 04:10:15 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:15 DEBUG in Main
+08-10-2013 04:10:19 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:19 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:19 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:19 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:19 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:19 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":3}]}
+08-10-2013 04:10:19 TIME:0.0057 Process:User-LoginProcess
+08-10-2013 04:10:35 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:35 DEBUG in Main
+08-10-2013 04:10:39 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:39 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:39 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:39 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:39 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:39 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":3}]}
+08-10-2013 04:10:39 TIME:0.0059 Process:User-LoginProcess
+08-10-2013 04:10:49 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:49 DEBUG in Main
+08-10-2013 04:10:09 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:09 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:09 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:09 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:09 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:09 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":3}]}
+08-10-2013 04:10:09 TIME:0.0052 Process:User-LoginProcess
+08-10-2013 04:10:32 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:32 DEBUG in Main
+08-10-2013 04:10:46 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:46 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:46 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:46 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:46 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:46 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:46 TIME:0.0051 Process:User-LoginProcess
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:58 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:58 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:58 TIME:0.0052 Process:User-LoginProcess
+08-10-2013 04:10:13 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:13 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:13 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:13 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:13 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:13 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:13 TIME:0.0052 Process:User-LoginProcess
+08-10-2013 04:10:30 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:30 DEBUG in Main
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:34 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:34 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:34 TIME:0.0056 Process:User-LoginProcess
+08-10-2013 04:10:47 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:47 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:47 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:47 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:47 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:47 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:47 TIME:0.0055 Process:User-LoginProcess
+08-10-2013 04:10:04 DEBUG Processing Request User-ForgotProcess
+08-10-2013 04:10:04 DEBUG Processing Request User-ForgotProcess SIZE=2
+08-10-2013 04:10:04 DUMP Array
+(
+    [0] => User
+    [1] => ForgotProcess
+)
+
+08-10-2013 04:10:04 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:04 DEBUG PROCESS VIEW : Calling FunctionForgotProcess
+08-10-2013 04:10:04 TIME:0.0052 Process:User-ForgotProcess
+08-10-2013 04:10:07 DEBUG Processing Request Dashboard
+08-10-2013 04:10:07 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:07 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:07 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:07 TIME:0.0036 Process:Dashboard
+08-10-2013 04:10:10 DEBUG Processing Request Dashboard
+08-10-2013 04:10:10 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:10 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:10 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:10 TIME:0.0033 Process:Dashboard
+08-10-2013 04:10:14 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:14 DEBUG in Main
+08-10-2013 04:10:02 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:02 DEBUG in Main
+08-10-2013 04:10:09 DEBUG Processing Request User-ForgotProcess
+08-10-2013 04:10:09 DEBUG Processing Request User-ForgotProcess SIZE=2
+08-10-2013 04:10:09 DUMP Array
+(
+    [0] => User
+    [1] => ForgotProcess
+)
+
+08-10-2013 04:10:09 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:09 DEBUG PROCESS VIEW : Calling FunctionForgotProcess
+08-10-2013 04:10:09 TIME:0.0054 Process:User-ForgotProcess
+08-10-2013 04:10:12 DEBUG Processing Request Dashboard
+08-10-2013 04:10:12 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:12 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:12 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:12 TIME:0.0035 Process:Dashboard
+08-10-2013 04:10:15 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:15 DEBUG in Main
+08-10-2013 04:10:22 DEBUG Processing Request Registration-ProcessReg
+08-10-2013 04:10:22 DEBUG Processing Request Registration-ProcessReg SIZE=2
+08-10-2013 04:10:22 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+08-10-2013 04:10:22 TIME:0.0024 Process:Registration-ProcessReg
+08-10-2013 04:10:31 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:31 DEBUG in Main
+08-10-2013 04:10:36 DEBUG Processing Request User-ProcessReg
+08-10-2013 04:10:36 DEBUG Processing Request User-ProcessReg SIZE=2
+08-10-2013 04:10:36 DUMP Array
+(
+    [0] => User
+    [1] => ProcessReg
+)
+
+08-10-2013 04:10:36 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:36 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+08-10-2013 04:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Name","Ctrl_Type":10}]}
+08-10-2013 04:10:36 TIME:0.0056 Process:User-ProcessReg
+08-10-2013 04:10:43 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:43 DEBUG in Main
+08-10-2013 04:10:51 DEBUG Processing Request User-ForgotProcess
+08-10-2013 04:10:51 DEBUG Processing Request User-ForgotProcess SIZE=2
+08-10-2013 04:10:51 DUMP Array
+(
+    [0] => User
+    [1] => ForgotProcess
+)
+
+08-10-2013 04:10:51 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:51 DEBUG PROCESS VIEW : Calling FunctionForgotProcess
+08-10-2013 04:10:51 TIME:0.0091 Process:User-ForgotProcess
+08-10-2013 04:10:54 DEBUG Processing Request Dashboard
+08-10-2013 04:10:54 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:54 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:54 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:54 TIME:0.0034 Process:Dashboard
+08-10-2013 04:10:59 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:59 DEBUG in Main
+08-10-2013 04:10:02 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:02 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:02 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:02 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:02 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:02 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:02 TIME:0.0055 Process:User-LoginProcess
+08-10-2013 04:10:18 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:18 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:18 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:18 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:18 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:18 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:18 TIME:0.0048 Process:User-LoginProcess
+08-10-2013 04:10:44 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:44 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:44 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:44 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:44 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:44 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:44 TIME:0.0049 Process:User-LoginProcess
+08-10-2013 04:10:53 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:53 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:53 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:53 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:53 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:53 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:53 TIME:0.0049 Process:User-LoginProcess
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:58 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:58 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:58 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:58 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:58 TIME:0.0049 Process:User-LoginProcess
+08-10-2013 04:10:08 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:08 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:08 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:08 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:08 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:08 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:08 TIME:0.0050 Process:User-LoginProcess
+08-10-2013 04:10:13 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:13 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:13 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:13 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:13 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:13 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:13 TIME:0.0053 Process:User-LoginProcess
+08-10-2013 04:10:22 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:22 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:22 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:22 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:22 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:22 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:22 TIME:0.0054 Process:User-LoginProcess
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:34 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:34 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login","Ctrl_Type":10}]}
+08-10-2013 04:10:34 TIME:0.0053 Process:User-LoginProcess
+08-10-2013 04:10:27 DEBUG Processing Request Contact
+08-10-2013 04:10:27 DEBUG Processing Request Contact SIZE=1
+08-10-2013 04:10:27 DUMP Array
+(
+    [0] => Contact
+)
+
+08-10-2013 04:10:27 TIME:0.0040 Process:Contact
+08-10-2013 04:10:35 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 04:10:35 DEBUG in Main
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess
+08-10-2013 04:10:34 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 04:10:34 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 04:10:34 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 04:10:34 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 04:10:34 TIME:0.0299 Process:User-LoginProcess
+08-10-2013 04:10:35 DEBUG Processing Request Dashboard
+08-10-2013 04:10:35 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:35 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:35 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:35 TIME:0.0040 Process:Dashboard
+08-10-2013 04:10:36 DEBUG Processing Request Dashboard
+08-10-2013 04:10:36 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 04:10:36 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 04:10:36 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 04:10:36 TIME:0.0069 Process:Dashboard
+08-10-2013 04:10:43 DEBUG Processing Request Events
+08-10-2013 04:10:43 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:43 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:43 TIME:0.0036 Process:Events
+08-10-2013 04:10:59 DEBUG Processing Request Events
+08-10-2013 04:10:59 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:59 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:59 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 04:10:29 DEBUG Processing Request Events
+08-10-2013 04:10:29 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:29 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:29 DEBUG Loading for class Events
+08-10-2013 04:10:29 DEBUG Loading for class EZYController
+08-10-2013 04:10:29 DEBUG Loading for class EZYValidate
+08-10-2013 04:10:29 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 04:10:29 DEBUG Loading for class Event_Model
+08-10-2013 04:10:47 DEBUG Processing Request Events
+08-10-2013 04:10:47 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:47 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:47 DEBUG Loading for class Events
+08-10-2013 04:10:47 DEBUG Loading for class EZYController
+08-10-2013 04:10:47 DEBUG Loading for class EZYValidate
+08-10-2013 04:10:47 DEBUG Loading for class EZYModel
+08-10-2013 04:10:47 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 04:10:47 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 04:10:47 DEBUG Loading for class EZYDBO
+08-10-2013 04:10:47 DEBUG Loading for class Event
+08-10-2013 04:10:32 DEBUG Processing Request Events
+08-10-2013 04:10:32 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:32 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:32 DEBUG Loading for class Events
+08-10-2013 04:10:32 DEBUG Loading for class EZYController
+08-10-2013 04:10:32 DEBUG Loading for class EZYValidate
+08-10-2013 04:10:32 DEBUG Loading for class EZYModel
+08-10-2013 04:10:32 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 04:10:32 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 04:10:32 DEBUG Loading for class EZYDBO
+08-10-2013 04:10:32 TIME:0.0238 Process:Events
+08-10-2013 04:10:58 DEBUG Processing Request Events
+08-10-2013 04:10:58 DEBUG Processing Request Events SIZE=1
+08-10-2013 04:10:58 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 04:10:58 DEBUG Loading for class Events
+08-10-2013 04:10:58 DEBUG Loading for class EZYController
+08-10-2013 04:10:58 DEBUG Loading for class EZYValidate
+08-10-2013 04:10:58 DEBUG Loading for class EZYModel
+08-10-2013 04:10:58 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 04:10:58 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 04:10:58 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:13 DEBUG Processing Request Events
+08-10-2013 05:10:13 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:13 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:13 DEBUG Loading for class Events
+08-10-2013 05:10:13 DEBUG Loading for class EZYController
+08-10-2013 05:10:13 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:13 DEBUG Loading for class EZYModel
+08-10-2013 05:10:13 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:13 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:13 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:13 TIME:0.0223 Process:Events
+08-10-2013 05:10:16 DEBUG Processing Request Events
+08-10-2013 05:10:16 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:16 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:16 DEBUG Loading for class Events
+08-10-2013 05:10:16 DEBUG Loading for class EZYController
+08-10-2013 05:10:16 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:16 DEBUG Loading for class EZYModel
+08-10-2013 05:10:16 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:16 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:16 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:16 TIME:0.0197 Process:Events
+08-10-2013 05:10:20 DEBUG Loading for class Index
+08-10-2013 05:10:20 DEBUG Loading for class EZYController
+08-10-2013 05:10:20 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:20 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:20 DEBUG in Main
+08-10-2013 05:10:20 DEBUG Loading for class User
+08-10-2013 05:10:20 DEBUG Loading for class EZYModel
+08-10-2013 05:10:20 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:24 DEBUG Processing Request Events
+08-10-2013 05:10:24 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:24 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:24 DEBUG Loading for class Events
+08-10-2013 05:10:24 DEBUG Loading for class EZYController
+08-10-2013 05:10:24 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:24 DEBUG Loading for class EZYModel
+08-10-2013 05:10:24 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:24 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:24 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:24 TIME:0.0205 Process:Events
+08-10-2013 05:10:24 DEBUG Processing Request Index
+08-10-2013 05:10:24 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:24 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:24 DEBUG Loading for class Index
+08-10-2013 05:10:24 DEBUG Loading for class EZYController
+08-10-2013 05:10:24 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:24 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:24 DEBUG in Main
+08-10-2013 05:10:24 DEBUG Loading for class User
+08-10-2013 05:10:24 DEBUG Loading for class EZYModel
+08-10-2013 05:10:24 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:24 TIME:0.0078 Process:Index
+08-10-2013 05:10:29 DEBUG Processing Request Events
+08-10-2013 05:10:29 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:29 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:29 DEBUG Loading for class Events
+08-10-2013 05:10:29 DEBUG Loading for class EZYController
+08-10-2013 05:10:29 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:29 DEBUG Loading for class EZYModel
+08-10-2013 05:10:29 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:29 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:29 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:29 TIME:0.0201 Process:Events
+08-10-2013 05:10:29 DEBUG Processing Request Index
+08-10-2013 05:10:29 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:29 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:29 DEBUG Loading for class Index
+08-10-2013 05:10:29 DEBUG Loading for class EZYController
+08-10-2013 05:10:29 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:29 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:29 DEBUG in Main
+08-10-2013 05:10:29 DEBUG Loading for class User
+08-10-2013 05:10:29 DEBUG Loading for class EZYModel
+08-10-2013 05:10:29 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:29 TIME:0.0076 Process:Index
+08-10-2013 05:10:38 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:38 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:38 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:38 DEBUG Loading for class User
+08-10-2013 05:10:38 DEBUG Loading for class EZYController
+08-10-2013 05:10:38 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:38 DEBUG Loading for class EZYModel
+08-10-2013 05:10:38 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:38 DEBUG Loading for class FormValidate
+08-10-2013 05:10:38 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 05:10:38 TIME:0.0303 Process:User-LoginProcess
+08-10-2013 05:10:40 DEBUG Processing Request Dashboard
+08-10-2013 05:10:40 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:40 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:40 DEBUG Loading for class Dashboard
+08-10-2013 05:10:40 DEBUG Loading for class EZYController
+08-10-2013 05:10:40 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:40 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:40 TIME:0.0034 Process:Dashboard
+08-10-2013 05:10:08 DEBUG Processing Request Dashboard
+08-10-2013 05:10:08 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:08 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:08 DEBUG Loading for class Dashboard
+08-10-2013 05:10:08 DEBUG Loading for class EZYController
+08-10-2013 05:10:08 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:08 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:08 TIME:0.0070 Process:Dashboard
+08-10-2013 05:10:24 DEBUG Processing Request Dashboard
+08-10-2013 05:10:24 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:24 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:24 DEBUG Loading for class Dashboard
+08-10-2013 05:10:24 DEBUG Loading for class EZYController
+08-10-2013 05:10:24 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:24 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:24 TIME:0.0069 Process:Dashboard
+08-10-2013 05:10:28 DEBUG Processing Request Index
+08-10-2013 05:10:28 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:28 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:28 DEBUG Loading for class Index
+08-10-2013 05:10:28 DEBUG Loading for class EZYController
+08-10-2013 05:10:28 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:28 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:28 DEBUG in Main
+08-10-2013 05:10:28 DEBUG Loading for class User
+08-10-2013 05:10:28 DEBUG Loading for class EZYModel
+08-10-2013 05:10:28 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:28 TIME:0.0073 Process:Index
+08-10-2013 05:10:38 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:38 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:38 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:38 DEBUG Loading for class User
+08-10-2013 05:10:38 DEBUG Loading for class EZYController
+08-10-2013 05:10:38 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:38 DEBUG Loading for class EZYModel
+08-10-2013 05:10:38 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:38 DEBUG Loading for class FormValidate
+08-10-2013 05:10:38 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 05:10:38 TIME:0.0303 Process:User-LoginProcess
+08-10-2013 05:10:38 DEBUG Processing Request Dashboard
+08-10-2013 05:10:38 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:38 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:38 DEBUG Loading for class Dashboard
+08-10-2013 05:10:38 DEBUG Loading for class EZYController
+08-10-2013 05:10:38 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:38 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:38 TIME:0.0034 Process:Dashboard
+08-10-2013 05:10:43 DEBUG Processing Request Masters
+08-10-2013 05:10:43 DEBUG Processing Request Masters SIZE=1
+08-10-2013 05:10:43 DUMP Array
+(
+    [0] => Masters
+)
+
+08-10-2013 05:10:43 DEBUG Loading for class Masters
+08-10-2013 05:10:43 DEBUG Loading for class EZYController
+08-10-2013 05:10:43 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:43 DEBUG Loading for class EZYModel
+08-10-2013 05:10:43 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:43 DEBUG SHOW VIEW : ClassMasters
+08-10-2013 05:10:43 TIME:0.0055 Process:Masters
+08-10-2013 05:10:54 DEBUG Processing Request Dashboard
+08-10-2013 05:10:54 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:54 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:54 DEBUG Loading for class Dashboard
+08-10-2013 05:10:54 DEBUG Loading for class EZYController
+08-10-2013 05:10:54 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:54 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:54 TIME:0.0040 Process:Dashboard
+08-10-2013 05:10:55 DEBUG Processing Request Index
+08-10-2013 05:10:55 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:55 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:55 DEBUG Loading for class Index
+08-10-2013 05:10:55 DEBUG Loading for class EZYController
+08-10-2013 05:10:55 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:55 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:55 DEBUG in Main
+08-10-2013 05:10:55 DEBUG Loading for class User
+08-10-2013 05:10:55 DEBUG Loading for class EZYModel
+08-10-2013 05:10:55 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:55 TIME:0.0095 Process:Index
+08-10-2013 05:10:06 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:06 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:06 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:06 DEBUG Loading for class User
+08-10-2013 05:10:06 DEBUG Loading for class EZYController
+08-10-2013 05:10:06 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:06 DEBUG Loading for class EZYModel
+08-10-2013 05:10:06 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:06 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:06 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:06 DEBUG Loading for class FormValidate
+08-10-2013 05:10:06 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:06 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login Details Provided","Ctrl_Type":10}]}
+08-10-2013 05:10:06 TIME:0.0185 Process:User-LoginProcess
+08-10-2013 05:10:12 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:12 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:12 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:12 DEBUG Loading for class User
+08-10-2013 05:10:12 DEBUG Loading for class EZYController
+08-10-2013 05:10:12 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:12 DEBUG Loading for class EZYModel
+08-10-2013 05:10:12 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:12 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:12 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:12 DEBUG Loading for class FormValidate
+08-10-2013 05:10:12 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:12 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 05:10:12 TIME:0.0204 Process:User-LoginProcess
+08-10-2013 05:10:13 DEBUG Processing Request Dashboard
+08-10-2013 05:10:13 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:13 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:13 DEBUG Loading for class Dashboard
+08-10-2013 05:10:13 DEBUG Loading for class EZYController
+08-10-2013 05:10:13 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:13 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:13 TIME:0.0035 Process:Dashboard
+08-10-2013 05:10:15 DEBUG Processing Request Profile
+08-10-2013 05:10:15 DEBUG Processing Request Profile SIZE=1
+08-10-2013 05:10:15 DUMP Array
+(
+    [0] => Profile
+)
+
+08-10-2013 05:10:15 DEBUG Loading for class Profile
+08-10-2013 05:10:15 DEBUG Loading for class PageNotFound
+08-10-2013 05:10:15 DEBUG Loading for class EZYController
+08-10-2013 05:10:15 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:15 TIME:0.0038 Process:Profile
+08-10-2013 05:10:19 DEBUG Processing Request Dashboard
+08-10-2013 05:10:19 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:19 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:19 DEBUG Loading for class Dashboard
+08-10-2013 05:10:19 DEBUG Loading for class EZYController
+08-10-2013 05:10:19 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:19 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:19 TIME:0.0038 Process:Dashboard
+08-10-2013 05:10:19 DEBUG Processing Request Index
+08-10-2013 05:10:19 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:19 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:19 DEBUG Loading for class Index
+08-10-2013 05:10:19 DEBUG Loading for class EZYController
+08-10-2013 05:10:19 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:19 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:19 DEBUG in Main
+08-10-2013 05:10:19 DEBUG Loading for class User
+08-10-2013 05:10:19 DEBUG Loading for class EZYModel
+08-10-2013 05:10:19 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:19 TIME:0.0076 Process:Index
+08-10-2013 05:10:36 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:36 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:36 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:36 DEBUG Loading for class User
+08-10-2013 05:10:36 DEBUG Loading for class EZYController
+08-10-2013 05:10:36 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:36 DEBUG Loading for class EZYModel
+08-10-2013 05:10:36 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:36 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:36 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:36 DEBUG Loading for class FormValidate
+08-10-2013 05:10:36 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 05:10:36 TIME:0.0308 Process:User-LoginProcess
+08-10-2013 05:10:37 DEBUG Processing Request Dashboard
+08-10-2013 05:10:37 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:37 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:37 DEBUG Loading for class Dashboard
+08-10-2013 05:10:37 DEBUG Loading for class EZYController
+08-10-2013 05:10:37 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:37 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:37 TIME:0.0034 Process:Dashboard
+08-10-2013 05:10:58 DEBUG Processing Request Events
+08-10-2013 05:10:58 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:58 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:58 DEBUG Loading for class Events
+08-10-2013 05:10:58 DEBUG Loading for class EZYController
+08-10-2013 05:10:58 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:58 DEBUG Loading for class EZYModel
+08-10-2013 05:10:58 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:58 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:58 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:58 TIME:0.0199 Process:Events
+08-10-2013 05:10:04 DEBUG Processing Request Events
+08-10-2013 05:10:04 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:04 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:04 DEBUG Loading for class Events
+08-10-2013 05:10:04 DEBUG Loading for class EZYController
+08-10-2013 05:10:04 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:04 DEBUG Loading for class EZYModel
+08-10-2013 05:10:04 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:04 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:04 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:04 TIME:0.0191 Process:Events
+08-10-2013 05:10:29 DEBUG Processing Request Events
+08-10-2013 05:10:29 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:29 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:29 DEBUG Loading for class Events
+08-10-2013 05:10:29 DEBUG Loading for class EZYController
+08-10-2013 05:10:29 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:29 DEBUG Loading for class EZYModel
+08-10-2013 05:10:29 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:29 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:29 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:29 TIME:0.0191 Process:Events
+08-10-2013 05:10:25 DEBUG Processing Request Events
+08-10-2013 05:10:25 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:25 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:25 DEBUG Loading for class Events
+08-10-2013 05:10:25 DEBUG Loading for class EZYController
+08-10-2013 05:10:25 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:25 DEBUG Loading for class EZYModel
+08-10-2013 05:10:25 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:25 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:25 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:25 TIME:0.0194 Process:Events
+08-10-2013 05:10:51 DEBUG Processing Request Events
+08-10-2013 05:10:51 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:51 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:51 DEBUG Loading for class Events
+08-10-2013 05:10:51 DEBUG Loading for class EZYController
+08-10-2013 05:10:51 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:51 DEBUG Loading for class EZYModel
+08-10-2013 05:10:51 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:51 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:51 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:51 TIME:0.0248 Process:Events
+08-10-2013 05:10:55 DEBUG Processing Request Events-AddNewEvent
+08-10-2013 05:10:55 DEBUG Processing Request Events-AddNewEvent SIZE=2
+08-10-2013 05:10:55 DUMP Array
+(
+    [0] => Events
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:55 DEBUG Loading for class Events
+08-10-2013 05:10:55 DEBUG Loading for class EZYController
+08-10-2013 05:10:55 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:55 DEBUG Loading for class EZYModel
+08-10-2013 05:10:55 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:55 DEBUG PROCESS VIEW : Calling ClassEvents
+08-10-2013 05:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:55 DEBUG Loading for class FormValidate
+08-10-2013 05:10:55 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Not Valid Start Date","Ctrl_Type":3}]}
+08-10-2013 05:10:55 TIME:0.0058 Process:Events-AddNewEvent
+08-10-2013 05:10:05 DEBUG Processing Request Index
+08-10-2013 05:10:05 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:05 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:05 DEBUG Loading for class Index
+08-10-2013 05:10:05 DEBUG Loading for class EZYController
+08-10-2013 05:10:05 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:05 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:05 DEBUG in Main
+08-10-2013 05:10:05 DEBUG Loading for class User
+08-10-2013 05:10:05 DEBUG Loading for class EZYModel
+08-10-2013 05:10:05 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:05 TIME:0.0075 Process:Index
+08-10-2013 05:10:54 DEBUG Processing Request Index
+08-10-2013 05:10:54 DEBUG Processing Request Index SIZE=1
+08-10-2013 05:10:54 DUMP Array
+(
+    [0] => Index
+)
+
+08-10-2013 05:10:54 DEBUG Loading for class Index
+08-10-2013 05:10:54 DEBUG Loading for class EZYController
+08-10-2013 05:10:54 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:54 DEBUG SHOW VIEW : ClassIndex
+08-10-2013 05:10:54 DEBUG in Main
+08-10-2013 05:10:54 DEBUG Loading for class User
+08-10-2013 05:10:54 DEBUG Loading for class EZYModel
+08-10-2013 05:10:54 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:54 TIME:0.0077 Process:Index
+08-10-2013 05:10:04 DEBUG Processing Request User-LoginProcess
+08-10-2013 05:10:04 DEBUG Processing Request User-LoginProcess SIZE=2
+08-10-2013 05:10:04 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+08-10-2013 05:10:04 DEBUG Loading for class User
+08-10-2013 05:10:04 DEBUG Loading for class EZYController
+08-10-2013 05:10:04 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:04 DEBUG Loading for class EZYModel
+08-10-2013 05:10:04 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:04 DEBUG PROCESS VIEW : Calling ClassUser
+08-10-2013 05:10:04 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+08-10-2013 05:10:04 DEBUG Loading for class FormValidate
+08-10-2013 05:10:04 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:04 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+08-10-2013 05:10:04 TIME:0.0203 Process:User-LoginProcess
+08-10-2013 05:10:05 DEBUG Processing Request Dashboard
+08-10-2013 05:10:05 DEBUG Processing Request Dashboard SIZE=1
+08-10-2013 05:10:05 DUMP Array
+(
+    [0] => Dashboard
+)
+
+08-10-2013 05:10:05 DEBUG Loading for class Dashboard
+08-10-2013 05:10:05 DEBUG Loading for class EZYController
+08-10-2013 05:10:05 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:05 DEBUG SHOW VIEW : ClassDashboard
+08-10-2013 05:10:05 TIME:0.0034 Process:Dashboard
+08-10-2013 05:10:07 DEBUG Processing Request Events
+08-10-2013 05:10:07 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:07 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:07 DEBUG Loading for class Events
+08-10-2013 05:10:07 DEBUG Loading for class EZYController
+08-10-2013 05:10:07 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:07 DEBUG Loading for class EZYModel
+08-10-2013 05:10:07 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:07 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:07 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:07 TIME:0.0195 Process:Events
+08-10-2013 05:10:22 DEBUG Processing Request Events
+08-10-2013 05:10:22 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:22 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:22 DEBUG Loading for class Events
+08-10-2013 05:10:22 DEBUG Loading for class EZYController
+08-10-2013 05:10:22 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:22 DEBUG Loading for class EZYModel
+08-10-2013 05:10:22 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:22 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:22 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:22 TIME:0.0194 Process:Events
+08-10-2013 05:10:29 DEBUG Processing Request Events-AddNewEvent
+08-10-2013 05:10:29 DEBUG Processing Request Events-AddNewEvent SIZE=2
+08-10-2013 05:10:29 DUMP Array
+(
+    [0] => Events
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:29 DEBUG Loading for class Events
+08-10-2013 05:10:29 DEBUG Loading for class EZYController
+08-10-2013 05:10:29 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:29 DEBUG Loading for class EZYModel
+08-10-2013 05:10:29 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:29 DEBUG PROCESS VIEW : Calling ClassEvents
+08-10-2013 05:10:29 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:29 DEBUG Loading for class FormValidate
+08-10-2013 05:10:29 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Event Name ","Ctrl_Type":10}]}
+08-10-2013 05:10:29 TIME:0.0053 Process:Events-AddNewEvent
+08-10-2013 05:10:38 DEBUG Processing Request Events-AddNewEvent
+08-10-2013 05:10:38 DEBUG Processing Request Events-AddNewEvent SIZE=2
+08-10-2013 05:10:38 DUMP Array
+(
+    [0] => Events
+    [1] => AddNewEvent
+)
+
+08-10-2013 05:10:38 DEBUG Loading for class Events
+08-10-2013 05:10:38 DEBUG Loading for class EZYController
+08-10-2013 05:10:38 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:38 DEBUG Loading for class EZYModel
+08-10-2013 05:10:38 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling ClassEvents
+08-10-2013 05:10:38 DEBUG PROCESS VIEW : Calling FunctionAddNewEvent
+08-10-2013 05:10:38 DEBUG Loading for class FormValidate
+08-10-2013 05:10:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Event-FormError","Ctrl_Value":"Enter Valid Event Name ","Ctrl_Type":10}]}
+08-10-2013 05:10:38 TIME:0.0054 Process:Events-AddNewEvent
+08-10-2013 05:10:57 DEBUG Processing Request Event-OpenEvent-2
+08-10-2013 05:10:57 DEBUG Processing Request Event-OpenEvent-2 SIZE=3
+08-10-2013 05:10:57 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 2
+)
+
+08-10-2013 05:10:57 DEBUG Loading for class Event
+08-10-2013 05:10:57 TIME:0.0005 Process:Event-OpenEvent-2
+08-10-2013 05:10:19 DEBUG Processing Request Events
+08-10-2013 05:10:19 DEBUG Processing Request Events SIZE=1
+08-10-2013 05:10:19 DUMP Array
+(
+    [0] => Events
+)
+
+08-10-2013 05:10:19 DEBUG Loading for class Events
+08-10-2013 05:10:19 DEBUG Loading for class EZYController
+08-10-2013 05:10:19 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:19 DEBUG Loading for class EZYModel
+08-10-2013 05:10:19 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:19 DEBUG SHOW VIEW : ClassEvents
+08-10-2013 05:10:19 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:19 TIME:0.0187 Process:Events
+08-10-2013 05:10:26 DEBUG Processing Request Events-OpenEvent-2
+08-10-2013 05:10:26 DEBUG Processing Request Events-OpenEvent-2 SIZE=3
+08-10-2013 05:10:26 DUMP Array
+(
+    [0] => Events
+    [1] => OpenEvent
+    [2] => 2
+)
+
+08-10-2013 05:10:26 DEBUG Loading for class Events
+08-10-2013 05:10:26 DEBUG Loading for class EZYController
+08-10-2013 05:10:26 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:26 DEBUG Loading for class EZYModel
+08-10-2013 05:10:26 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:26 DEBUG PROCESS VIEW : Calling ClassEvents
+08-10-2013 05:10:26 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+08-10-2013 05:10:26 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+08-10-2013 05:10:26 TIME:0.0059 Process:Events-OpenEvent-2
+08-10-2013 05:10:28 DEBUG Processing Request Visitor
+08-10-2013 05:10:28 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:28 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:28 DEBUG Loading for class Visitor
+08-10-2013 05:10:28 DEBUG Loading for class EZYController
+08-10-2013 05:10:28 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:28 DEBUG Loading for class EZYModel
+08-10-2013 05:10:28 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:28 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:28 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:28 TIME:0.0211 Process:Visitor
+08-10-2013 05:10:11 DEBUG Processing Request AddressDelayLoad
+08-10-2013 05:10:11 DEBUG Processing Request AddressDelayLoad SIZE=1
+08-10-2013 05:10:11 DUMP Array
+(
+    [0] => AddressDelayLoad
+)
+
+08-10-2013 05:10:11 DEBUG Loading for class AddressDelayLoad
+08-10-2013 05:10:11 DEBUG Loading for class PageNotFound
+08-10-2013 05:10:11 DEBUG Loading for class EZYController
+08-10-2013 05:10:11 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:11 TIME:0.0043 Process:AddressDelayLoad
+08-10-2013 05:10:43 DEBUG Processing Request Visitor-AddNewVisitor
+08-10-2013 05:10:43 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+08-10-2013 05:10:43 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+08-10-2013 05:10:43 DEBUG Loading for class Visitor
+08-10-2013 05:10:43 DEBUG Loading for class EZYController
+08-10-2013 05:10:43 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:43 DEBUG Loading for class EZYModel
+08-10-2013 05:10:43 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:43 DEBUG PROCESS VIEW : Calling ClassVisitor
+08-10-2013 05:10:43 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+08-10-2013 05:10:43 DEBUG Loading for class FormValidate
+08-10-2013 05:10:43 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:57 DEBUG Processing Request Visitor
+08-10-2013 05:10:57 DEBUG Processing Request Visitor SIZE=1
+08-10-2013 05:10:57 DUMP Array
+(
+    [0] => Visitor
+)
+
+08-10-2013 05:10:57 DEBUG Loading for class Visitor
+08-10-2013 05:10:57 DEBUG Loading for class EZYController
+08-10-2013 05:10:57 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:57 DEBUG Loading for class EZYModel
+08-10-2013 05:10:57 DEBUG Loading for class EZYQueryBuilder
+08-10-2013 05:10:57 DEBUG SHOW VIEW : ClassVisitor
+08-10-2013 05:10:57 DEBUG Loading for class EZYDBO
+08-10-2013 05:10:57 TIME:0.0188 Process:Visitor
+08-10-2013 05:10:18 DEBUG Processing Request AddressDelayLoad
+08-10-2013 05:10:18 DEBUG Processing Request AddressDelayLoad SIZE=1
+08-10-2013 05:10:18 DUMP Array
+(
+    [0] => AddressDelayLoad
+)
+
+08-10-2013 05:10:18 DEBUG Loading for class AddressDelayLoad
+08-10-2013 05:10:18 DEBUG Loading for class PageNotFound
+08-10-2013 05:10:18 DEBUG Loading for class EZYController
+08-10-2013 05:10:18 DEBUG Loading for class EZYValidate
+08-10-2013 05:10:18 TIME:0.0043 Process:AddressDelayLoad

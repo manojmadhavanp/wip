@@ -1,0 +1,114 @@
+21-10-2013 11:10:46 DEBUG Processing Request Visitor
+21-10-2013 11:10:46 DEBUG Processing Request Visitor SIZE=1
+21-10-2013 11:10:46 DUMP Array
+(
+    [0] => Visitor
+)
+
+21-10-2013 11:10:46 DEBUG Loading for class Visitor
+21-10-2013 11:10:46 DEBUG Loading for class EZYController
+21-10-2013 11:10:46 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:46 DEBUG Loading for class EZYModel
+21-10-2013 11:10:46 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:46 DEBUG SHOW VIEW : ClassVisitor
+21-10-2013 11:10:46 DEBUG Loading for class EZYDBO
+21-10-2013 11:10:46 DEBUG Loading for class Address
+21-10-2013 11:10:46 DEBUG Loading for class Masters
+21-10-2013 11:10:47 TIME:0.7796 Process:Visitor
+21-10-2013 11:10:47 DEBUG Processing Request Index
+21-10-2013 11:10:47 DEBUG Processing Request Index SIZE=1
+21-10-2013 11:10:47 DUMP Array
+(
+    [0] => Index
+)
+
+21-10-2013 11:10:47 DEBUG Loading for class Index
+21-10-2013 11:10:47 DEBUG Loading for class EZYController
+21-10-2013 11:10:47 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:47 DEBUG SHOW VIEW : ClassIndex
+21-10-2013 11:10:47 DEBUG in Main
+21-10-2013 11:10:47 DEBUG Loading for class User
+21-10-2013 11:10:47 DEBUG Loading for class EZYModel
+21-10-2013 11:10:47 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:47 TIME:0.2961 Process:Index
+21-10-2013 11:10:05 DEBUG Processing Request User-LoginProcess
+21-10-2013 11:10:05 DEBUG Processing Request User-LoginProcess SIZE=2
+21-10-2013 11:10:05 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+21-10-2013 11:10:05 DEBUG Loading for class User
+21-10-2013 11:10:05 DEBUG Loading for class EZYController
+21-10-2013 11:10:05 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:05 DEBUG Loading for class EZYModel
+21-10-2013 11:10:05 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:05 DEBUG PROCESS VIEW : Calling ClassUser
+21-10-2013 11:10:05 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+21-10-2013 11:10:05 DEBUG Loading for class FormValidate
+21-10-2013 11:10:05 DEBUG Loading for class EZYDBO
+21-10-2013 11:10:05 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Dashboard","Ctrl_Type":5}]}
+21-10-2013 11:10:05 TIME:0.1752 Process:User-LoginProcess
+21-10-2013 11:10:06 DEBUG Processing Request Dashboard
+21-10-2013 11:10:06 DEBUG Processing Request Dashboard SIZE=1
+21-10-2013 11:10:06 DUMP Array
+(
+    [0] => Dashboard
+)
+
+21-10-2013 11:10:06 DEBUG Loading for class Dashboard
+21-10-2013 11:10:06 DEBUG Loading for class EZYController
+21-10-2013 11:10:06 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:06 DEBUG SHOW VIEW : ClassDashboard
+21-10-2013 11:10:06 TIME:0.0054 Process:Dashboard
+21-10-2013 11:10:11 DEBUG Processing Request Events
+21-10-2013 11:10:11 DEBUG Processing Request Events SIZE=1
+21-10-2013 11:10:11 DUMP Array
+(
+    [0] => Events
+)
+
+21-10-2013 11:10:11 DEBUG Loading for class Events
+21-10-2013 11:10:11 DEBUG Loading for class EZYController
+21-10-2013 11:10:11 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:11 DEBUG Loading for class EZYModel
+21-10-2013 11:10:11 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:11 DEBUG SHOW VIEW : ClassEvents
+21-10-2013 11:10:11 DEBUG Loading for class EZYDBO
+21-10-2013 11:10:11 TIME:0.1063 Process:Events
+21-10-2013 11:10:18 DEBUG Processing Request Events-OpenEvent-31
+21-10-2013 11:10:18 DEBUG Processing Request Events-OpenEvent-31 SIZE=3
+21-10-2013 11:10:18 DUMP Array
+(
+    [0] => Events
+    [1] => OpenEvent
+    [2] => 31
+)
+
+21-10-2013 11:10:18 DEBUG Loading for class Events
+21-10-2013 11:10:18 DEBUG Loading for class EZYController
+21-10-2013 11:10:18 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:18 DEBUG Loading for class EZYModel
+21-10-2013 11:10:18 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:18 DEBUG PROCESS VIEW : Calling ClassEvents
+21-10-2013 11:10:18 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+21-10-2013 11:10:18 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+21-10-2013 11:10:18 TIME:0.0048 Process:Events-OpenEvent-31
+21-10-2013 11:10:19 DEBUG Processing Request Visitor
+21-10-2013 11:10:19 DEBUG Processing Request Visitor SIZE=1
+21-10-2013 11:10:19 DUMP Array
+(
+    [0] => Visitor
+)
+
+21-10-2013 11:10:19 DEBUG Loading for class Visitor
+21-10-2013 11:10:19 DEBUG Loading for class EZYController
+21-10-2013 11:10:19 DEBUG Loading for class EZYValidate
+21-10-2013 11:10:19 DEBUG Loading for class EZYModel
+21-10-2013 11:10:19 DEBUG Loading for class EZYQueryBuilder
+21-10-2013 11:10:19 DEBUG SHOW VIEW : ClassVisitor
+21-10-2013 11:10:19 DEBUG Loading for class EZYDBO
+21-10-2013 11:10:19 DEBUG Loading for class Address
+21-10-2013 11:10:19 DEBUG Loading for class Masters
+21-10-2013 11:10:19 TIME:0.0657 Process:Visitor

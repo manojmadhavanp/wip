@@ -1,0 +1,59 @@
+29-09-2014 08:09:14 DEBUG Loading for class Index
+29-09-2014 08:09:14 DEBUG Loading for class EZYController
+29-09-2014 08:09:14 DEBUG Loading for class EZYValidate
+29-09-2014 08:09:14 DEBUG SHOW VIEW : ClassIndex
+29-09-2014 08:09:14 DEBUG in Main
+29-09-2014 08:09:14 DEBUG Loading for class User
+29-09-2014 08:09:14 DEBUG Loading for class EZYModel
+29-09-2014 08:09:14 DEBUG Loading for class EZYQueryBuilder
+29-09-2014 06:09:45 DEBUG Processing Request User-LoginProcess
+29-09-2014 06:09:45 DEBUG Processing Request User-LoginProcess SIZE=2
+29-09-2014 06:09:45 DUMP Array
+(
+    [0] => User
+    [1] => LoginProcess
+)
+
+29-09-2014 06:09:45 DEBUG Loading for class User
+29-09-2014 06:09:45 DEBUG Loading for class EZYController
+29-09-2014 06:09:45 DEBUG Loading for class EZYValidate
+29-09-2014 06:09:45 DEBUG Loading for class EZYModel
+29-09-2014 06:09:45 DEBUG Loading for class EZYQueryBuilder
+29-09-2014 06:09:45 DEBUG PROCESS VIEW : Calling ClassUser
+29-09-2014 06:09:45 DEBUG PROCESS VIEW : Calling FunctionLoginProcess
+29-09-2014 06:09:45 DEBUG Loading for class FormValidate
+29-09-2014 06:09:45 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Invalid Login Details Provided","Ctrl_Type":10}]}
+29-09-2014 06:09:45 TIME:0.0118 Process:User-LoginProcess
+29-09-2014 06:09:49 DEBUG Processing Request User-ForgotProcess
+29-09-2014 06:09:49 DEBUG Processing Request User-ForgotProcess SIZE=2
+29-09-2014 06:09:49 DUMP Array
+(
+    [0] => User
+    [1] => ForgotProcess
+)
+
+29-09-2014 06:09:49 DEBUG Loading for class User
+29-09-2014 06:09:49 DEBUG Loading for class EZYController
+29-09-2014 06:09:49 DEBUG Loading for class EZYValidate
+29-09-2014 06:09:49 DEBUG Loading for class EZYModel
+29-09-2014 06:09:49 DEBUG Loading for class EZYQueryBuilder
+29-09-2014 06:09:49 DEBUG PROCESS VIEW : Calling ClassUser
+29-09-2014 06:09:49 DEBUG PROCESS VIEW : Calling FunctionForgotProcess
+29-09-2014 06:09:49 DEBUG Loading for class FormValidate
+29-09-2014 06:09:49 TIME:0.0036 Process:User-ForgotProcess
+29-09-2014 06:09:58 DEBUG Loading for class Index
+29-09-2014 06:09:58 DEBUG Loading for class EZYController
+29-09-2014 06:09:58 DEBUG Loading for class EZYValidate
+29-09-2014 06:09:58 DEBUG SHOW VIEW : ClassIndex
+29-09-2014 06:09:58 DEBUG in Main
+29-09-2014 06:09:58 DEBUG Loading for class User
+29-09-2014 06:09:58 DEBUG Loading for class EZYModel
+29-09-2014 06:09:58 DEBUG Loading for class EZYQueryBuilder
+29-09-2014 06:09:00 DEBUG Loading for class Index
+29-09-2014 06:09:00 DEBUG Loading for class EZYController
+29-09-2014 06:09:00 DEBUG Loading for class EZYValidate
+29-09-2014 06:09:00 DEBUG SHOW VIEW : ClassIndex
+29-09-2014 06:09:00 DEBUG in Main
+29-09-2014 06:09:00 DEBUG Loading for class User
+29-09-2014 06:09:00 DEBUG Loading for class EZYModel
+29-09-2014 06:09:00 DEBUG Loading for class EZYQueryBuilder

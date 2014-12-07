@@ -1,0 +1,2912 @@
+07-10-2013 04:10:47 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:47 DEBUG in Main
+07-10-2013 04:10:51 DEBUG Processing Request location
+07-10-2013 04:10:51 DEBUG Processing Request location SIZE=1
+07-10-2013 04:10:51 DUMP Array
+(
+    [0] => location
+)
+
+07-10-2013 04:10:51 TIME:0.0005 Process:location
+07-10-2013 04:10:03 DEBUG Processing Request location
+07-10-2013 04:10:03 DEBUG Processing Request location SIZE=1
+07-10-2013 04:10:03 DUMP Array
+(
+    [0] => location
+)
+
+07-10-2013 04:10:03 TIME:0.0005 Process:location
+07-10-2013 04:10:10 DEBUG Processing Request Location
+07-10-2013 04:10:10 DEBUG Processing Request Location SIZE=1
+07-10-2013 04:10:10 DUMP Array
+(
+    [0] => Location
+)
+
+07-10-2013 04:10:10 TIME:0.0006 Process:Location
+07-10-2013 04:10:51 DEBUG Processing Request Location
+07-10-2013 04:10:51 DEBUG Processing Request Location SIZE=1
+07-10-2013 04:10:51 DUMP Array
+(
+    [0] => Location
+)
+
+07-10-2013 04:10:51 TIME:0.0005 Process:Location
+07-10-2013 04:10:52 DEBUG Processing Request Location
+07-10-2013 04:10:52 DEBUG Processing Request Location SIZE=1
+07-10-2013 04:10:52 DUMP Array
+(
+    [0] => Location
+)
+
+07-10-2013 04:10:52 TIME:0.0005 Process:Location
+07-10-2013 04:10:53 DEBUG Processing Request Location
+07-10-2013 04:10:53 DEBUG Processing Request Location SIZE=1
+07-10-2013 04:10:53 DUMP Array
+(
+    [0] => Location
+)
+
+07-10-2013 04:10:53 TIME:0.0005 Process:Location
+07-10-2013 04:10:57 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:57 DEBUG in Main
+07-10-2013 04:10:34 DEBUG Processing Request vistor
+07-10-2013 04:10:34 DEBUG Processing Request vistor SIZE=1
+07-10-2013 04:10:34 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 04:10:34 TIME:0.0005 Process:vistor
+07-10-2013 04:10:50 DEBUG Processing Request Visitor
+07-10-2013 04:10:50 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:50 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:41 DEBUG Processing Request Visitor
+07-10-2013 04:10:41 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:41 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:55 DEBUG Processing Request Visitor
+07-10-2013 04:10:55 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:02 DEBUG Processing Request Visitor
+07-10-2013 04:10:02 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:02 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:03 DEBUG Processing Request Visitor
+07-10-2013 04:10:03 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:03 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:26 DEBUG Processing Request Login
+07-10-2013 04:10:26 DEBUG Processing Request Login SIZE=1
+07-10-2013 04:10:26 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 04:10:26 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 04:10:26 TIME:0.0198 Process:Login
+07-10-2013 04:10:57 DEBUG Processing Request Registration
+07-10-2013 04:10:57 DEBUG Processing Request Registration SIZE=1
+07-10-2013 04:10:57 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 04:10:57 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 04:10:57 TIME:0.0045 Process:Registration
+07-10-2013 04:10:00 DEBUG Processing Request Visitor
+07-10-2013 04:10:00 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:00 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:04 DEBUG Processing Request Visitor
+07-10-2013 04:10:04 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:04 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:51 DEBUG Processing Request Visitor
+07-10-2013 04:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:52 DEBUG Processing Request Visitor
+07-10-2013 04:10:52 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:52 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:51 DEBUG Processing Request Visitor
+07-10-2013 04:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:40 DEBUG Processing Request Visitor
+07-10-2013 04:10:40 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:40 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:29 DEBUG Processing Request Visitor
+07-10-2013 05:10:29 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:29 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:51 DEBUG Processing Request Visitor
+07-10-2013 05:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:51 DEBUG Processing Request Visitor
+07-10-2013 05:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:53 DEBUG Processing Request Visitor
+07-10-2013 05:10:53 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:53 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:18 DEBUG Processing Request Visitor
+07-10-2013 05:10:18 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:18 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:19 DEBUG Processing Request Visitor
+07-10-2013 05:10:19 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:19 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:11 DEBUG Processing Request Visitor
+07-10-2013 05:10:11 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:11 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:12 DEBUG Processing Request Visitor
+07-10-2013 05:10:12 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:12 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:13 DEBUG Processing Request Visitor
+07-10-2013 05:10:13 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:13 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:15 DEBUG Processing Request Visitor
+07-10-2013 05:10:15 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:15 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:16 DEBUG Processing Request Visitor
+07-10-2013 05:10:16 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:16 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:16 DEBUG Processing Request Visitor
+07-10-2013 05:10:16 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:16 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:35 DEBUG Processing Request Visitor
+07-10-2013 05:10:35 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:35 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:28 DEBUG Processing Request Visitor
+07-10-2013 05:10:28 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:28 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:42 DEBUG Processing Request Visitor
+07-10-2013 05:10:42 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:42 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:42 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:24 DEBUG Processing Request Visitor
+07-10-2013 05:10:24 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:24 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:39 DEBUG Processing Request Visitor
+07-10-2013 05:10:39 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:39 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:39 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:24 DEBUG Processing Request Visitor
+07-10-2013 05:10:24 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:24 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:39 DEBUG Processing Request Visitor
+07-10-2013 05:10:39 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:39 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:55 DEBUG Processing Request Visitor
+07-10-2013 05:10:55 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:56 DEBUG Processing Request Visitor
+07-10-2013 05:10:56 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:56 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:58 DEBUG Processing Request Visitor
+07-10-2013 05:10:58 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:58 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:59 DEBUG Processing Request Visitor
+07-10-2013 05:10:59 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:59 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:34 DEBUG Processing Request Visitor
+07-10-2013 05:10:34 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:34 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:46 DEBUG Processing Request Visitor
+07-10-2013 05:10:46 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:46 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:46 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:12 DEBUG Processing Request Visitor
+07-10-2013 05:10:12 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:12 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:12 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:13 TIME:0.2613 Process:Visitor
+07-10-2013 05:10:39 DEBUG Processing Request Visitor
+07-10-2013 05:10:39 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:39 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:39 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:39 TIME:0.0325 Process:Visitor
+07-10-2013 05:10:00 DEBUG Processing Request Visitor
+07-10-2013 05:10:00 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:00 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:00 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:01 TIME:0.0384 Process:Visitor
+07-10-2013 05:10:27 DEBUG Processing Request Visitor
+07-10-2013 05:10:27 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:27 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:27 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:27 TIME:0.0266 Process:Visitor
+07-10-2013 05:10:51 DEBUG Processing Request Visitor
+07-10-2013 05:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:51 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:51 TIME:0.0115 Process:Visitor
+07-10-2013 05:10:33 DEBUG Processing Request Visitor
+07-10-2013 05:10:33 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:33 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:33 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:33 TIME:0.0121 Process:Visitor
+07-10-2013 05:10:38 DEBUG Processing Request Visitor
+07-10-2013 05:10:38 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:38 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:38 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:38 TIME:0.0167 Process:Visitor
+07-10-2013 05:10:30 DEBUG Processing Request Visitor
+07-10-2013 05:10:30 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:30 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:30 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:30 TIME:0.0215 Process:Visitor
+07-10-2013 05:10:59 DEBUG Processing Request Visitor
+07-10-2013 05:10:59 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 05:10:59 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 05:10:59 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 05:10:59 TIME:0.0231 Process:Visitor
+07-10-2013 06:10:56 DEBUG Processing Request Visitor
+07-10-2013 06:10:56 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:56 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:56 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:41 DEBUG Processing Request Visitor
+07-10-2013 06:10:41 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:41 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:41 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:41 TIME:0.0138 Process:Visitor
+07-10-2013 06:10:46 DEBUG Processing Request Visitor
+07-10-2013 06:10:46 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:46 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:46 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:46 TIME:0.0117 Process:Visitor
+07-10-2013 06:10:51 DEBUG Processing Request Login
+07-10-2013 06:10:51 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:51 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:51 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:51 TIME:0.0498 Process:Login
+07-10-2013 06:10:53 DEBUG Processing Request Registration
+07-10-2013 06:10:53 DEBUG Processing Request Registration SIZE=1
+07-10-2013 06:10:53 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 06:10:53 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 06:10:53 TIME:0.0313 Process:Registration
+07-10-2013 06:10:56 DEBUG Processing Request ForgotPwd
+07-10-2013 06:10:56 DEBUG Processing Request ForgotPwd SIZE=1
+07-10-2013 06:10:56 DUMP Array
+(
+    [0] => ForgotPwd
+)
+
+07-10-2013 06:10:56 DEBUG SHOW VIEW : ClassForgotPwd
+07-10-2013 06:10:56 TIME:0.0371 Process:ForgotPwd
+07-10-2013 06:10:01 DEBUG Processing Request Login
+07-10-2013 06:10:01 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:01 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:01 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:01 TIME:0.0060 Process:Login
+07-10-2013 06:10:30 DEBUG Processing Request Visitor
+07-10-2013 06:10:30 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:30 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:30 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:30 TIME:0.0197 Process:Visitor
+07-10-2013 06:10:46 DEBUG Processing Request Visitor
+07-10-2013 06:10:46 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:46 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:46 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:46 TIME:0.0199 Process:Visitor
+07-10-2013 06:10:49 DEBUG Processing Request Visitor
+07-10-2013 06:10:49 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:49 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:49 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:49 TIME:0.0094 Process:Visitor
+07-10-2013 06:10:02 DEBUG Processing Request Visitor
+07-10-2013 06:10:02 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:02 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:02 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:02 TIME:0.0187 Process:Visitor
+07-10-2013 06:10:42 DEBUG Processing Request Visitor
+07-10-2013 06:10:42 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:42 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:42 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:42 TIME:0.0205 Process:Visitor
+07-10-2013 06:10:21 DEBUG Processing Request Visitor
+07-10-2013 06:10:21 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:21 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:21 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:21 TIME:0.0205 Process:Visitor
+07-10-2013 06:10:55 DEBUG Processing Request Visitor
+07-10-2013 06:10:55 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:55 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:55 TIME:0.0191 Process:Visitor
+07-10-2013 06:10:19 DEBUG Processing Request Login
+07-10-2013 06:10:19 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:19 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:19 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:19 TIME:0.0066 Process:Login
+07-10-2013 06:10:21 DEBUG Processing Request Login
+07-10-2013 06:10:21 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:21 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:21 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:21 TIME:0.0057 Process:Login
+07-10-2013 06:10:45 DEBUG Processing Request Login
+07-10-2013 06:10:45 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:45 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:45 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:45 TIME:0.0108 Process:Login
+07-10-2013 06:10:21 DEBUG Processing Request Login
+07-10-2013 06:10:21 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:21 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:21 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:21 TIME:0.0076 Process:Login
+07-10-2013 06:10:25 DEBUG Processing Request Visitor
+07-10-2013 06:10:25 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:25 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:25 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:25 TIME:0.0206 Process:Visitor
+07-10-2013 06:10:34 DEBUG Processing Request Login
+07-10-2013 06:10:34 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:34 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:34 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:34 TIME:0.0064 Process:Login
+07-10-2013 06:10:28 DEBUG Processing Request Login
+07-10-2013 06:10:28 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:28 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:28 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:28 TIME:0.0061 Process:Login
+07-10-2013 06:10:56 DEBUG Processing Request Visitor
+07-10-2013 06:10:56 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:56 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:56 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:56 TIME:0.0211 Process:Visitor
+07-10-2013 06:10:14 DEBUG Processing Request Login
+07-10-2013 06:10:14 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:14 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:14 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:14 TIME:0.0075 Process:Login
+07-10-2013 06:10:49 DEBUG Processing Request Visitor
+07-10-2013 06:10:49 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:49 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:49 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:49 TIME:0.0202 Process:Visitor
+07-10-2013 06:10:20 DEBUG Processing Request Visitor
+07-10-2013 06:10:20 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:20 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:20 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:20 TIME:0.0209 Process:Visitor
+07-10-2013 06:10:43 DEBUG Processing Request Visitor
+07-10-2013 06:10:43 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:43 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:43 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:43 TIME:0.0100 Process:Visitor
+07-10-2013 06:10:16 DEBUG Processing Request Visitor
+07-10-2013 06:10:16 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:16 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:16 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:16 TIME:0.0195 Process:Visitor
+07-10-2013 06:10:39 DEBUG Processing Request Login
+07-10-2013 06:10:39 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:39 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:39 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:39 TIME:0.0063 Process:Login
+07-10-2013 06:10:53 DEBUG Processing Request Login-Process
+07-10-2013 06:10:53 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:53 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:53 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:53 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:53 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:53 TIME:0.0059 Process:Login-Process
+07-10-2013 06:10:22 DEBUG Processing Request Visitor
+07-10-2013 06:10:22 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:22 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:22 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:22 TIME:0.0196 Process:Visitor
+07-10-2013 06:10:36 DEBUG Processing Request Visitor
+07-10-2013 06:10:36 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:36 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:36 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:36 TIME:0.0200 Process:Visitor
+07-10-2013 06:10:14 DEBUG Processing Request Visitor
+07-10-2013 06:10:14 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:14 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:14 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:14 TIME:0.0193 Process:Visitor
+07-10-2013 06:10:41 DEBUG Processing Request Visitor
+07-10-2013 06:10:41 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:41 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:41 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:41 TIME:0.0108 Process:Visitor
+07-10-2013 06:10:36 DEBUG Processing Request Login-Process
+07-10-2013 06:10:36 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:36 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:36 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:36 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:36 TIME:0.0062 Process:Login-Process
+07-10-2013 06:10:41 DEBUG Processing Request Login
+07-10-2013 06:10:41 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:41 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:41 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:41 TIME:0.0066 Process:Login
+07-10-2013 06:10:51 DEBUG Processing Request Login-Process
+07-10-2013 06:10:51 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:51 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:51 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:51 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:51 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:51 TIME:0.0055 Process:Login-Process
+07-10-2013 06:10:00 DEBUG Processing Request Login-Process
+07-10-2013 06:10:00 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:00 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:00 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:00 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:00 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:00 TIME:0.0051 Process:Login-Process
+07-10-2013 06:10:10 DEBUG Processing Request Login-Process
+07-10-2013 06:10:10 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:10 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:10 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:10 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:10 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:10 TIME:0.0051 Process:Login-Process
+07-10-2013 06:10:20 DEBUG Processing Request Login
+07-10-2013 06:10:20 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:20 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:20 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:20 TIME:0.0069 Process:Login
+07-10-2013 06:10:26 DEBUG Processing Request Login
+07-10-2013 06:10:26 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:26 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:26 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:26 TIME:0.0061 Process:Login
+07-10-2013 06:10:26 DEBUG Processing Request Visitor
+07-10-2013 06:10:26 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:26 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:26 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:26 TIME:0.0151 Process:Visitor
+07-10-2013 06:10:32 DEBUG Processing Request Login-Process
+07-10-2013 06:10:32 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:32 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:32 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:32 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:32 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:32 TIME:0.0062 Process:Login-Process
+07-10-2013 06:10:06 DEBUG Processing Request Visitor
+07-10-2013 06:10:06 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:06 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:06 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:06 TIME:0.0199 Process:Visitor
+07-10-2013 06:10:30 DEBUG Processing Request Login
+07-10-2013 06:10:30 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:30 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:30 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:30 TIME:0.0062 Process:Login
+07-10-2013 06:10:55 DEBUG Processing Request Visitor
+07-10-2013 06:10:55 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:55 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:55 TIME:0.0195 Process:Visitor
+07-10-2013 06:10:03 DEBUG Processing Request Login-Process
+07-10-2013 06:10:03 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:03 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:03 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:03 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:03 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:03 TIME:0.0053 Process:Login-Process
+07-10-2013 06:10:25 DEBUG Processing Request Login
+07-10-2013 06:10:25 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:25 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:25 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:25 TIME:0.0058 Process:Login
+07-10-2013 06:10:33 DEBUG Processing Request Login-Process
+07-10-2013 06:10:33 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:33 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:33 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:33 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:33 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:33 TIME:0.0054 Process:Login-Process
+07-10-2013 06:10:55 DEBUG Processing Request Visitor
+07-10-2013 06:10:55 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:55 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:55 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:55 TIME:0.0194 Process:Visitor
+07-10-2013 06:10:02 DEBUG Processing Request Visitor
+07-10-2013 06:10:02 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:02 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:02 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:02 TIME:0.0199 Process:Visitor
+07-10-2013 06:10:12 DEBUG Processing Request Login
+07-10-2013 06:10:12 DEBUG Processing Request Login SIZE=1
+07-10-2013 06:10:12 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 06:10:12 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 06:10:12 TIME:0.0062 Process:Login
+07-10-2013 06:10:20 DEBUG Processing Request Login-Process
+07-10-2013 06:10:20 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:20 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:20 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:20 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:20 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:20 TIME:0.0053 Process:Login-Process
+07-10-2013 06:10:27 DEBUG Processing Request Login-Process
+07-10-2013 06:10:27 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 06:10:27 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 06:10:27 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 06:10:27 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 06:10:27 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 06:10:27 TIME:0.0052 Process:Login-Process
+07-10-2013 06:10:52 DEBUG Processing Request Visitor
+07-10-2013 06:10:52 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 06:10:52 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 06:10:52 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 06:10:52 TIME:0.0193 Process:Visitor
+07-10-2013 07:10:36 DEBUG Processing Request Visitor
+07-10-2013 07:10:36 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:36 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:36 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:36 TIME:0.0194 Process:Visitor
+07-10-2013 07:10:03 DEBUG Processing Request Visitor
+07-10-2013 07:10:03 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:03 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:03 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:03 TIME:0.0205 Process:Visitor
+07-10-2013 07:10:08 DEBUG Processing Request Visitor
+07-10-2013 07:10:08 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:08 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:08 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:08 TIME:0.0197 Process:Visitor
+07-10-2013 07:10:00 DEBUG Processing Request Visitor
+07-10-2013 07:10:00 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:00 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:00 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:00 TIME:0.0214 Process:Visitor
+07-10-2013 07:10:15 DEBUG Processing Request Visitor
+07-10-2013 07:10:15 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:15 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:15 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:15 TIME:0.0202 Process:Visitor
+07-10-2013 07:10:33 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:33 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:33 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:33 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:33 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:00 DEBUG Processing Request Visitor
+07-10-2013 07:10:00 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:00 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:01 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:01 TIME:0.0191 Process:Visitor
+07-10-2013 07:10:11 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:11 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:11 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:11 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:11 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:41 DEBUG Processing Request Visitor
+07-10-2013 07:10:41 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:41 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:41 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:41 TIME:0.0196 Process:Visitor
+07-10-2013 07:10:02 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:02 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:02 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:02 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:02 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:31 DEBUG Processing Request Visitor
+07-10-2013 07:10:31 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:31 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:31 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:31 TIME:0.0209 Process:Visitor
+07-10-2013 07:10:50 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:50 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:50 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:50 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:50 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:49 DEBUG Processing Request Visitor
+07-10-2013 07:10:49 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:49 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:49 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:49 TIME:0.0209 Process:Visitor
+07-10-2013 07:10:52 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:52 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:52 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:52 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:52 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:04 DEBUG Processing Request Visitor
+07-10-2013 07:10:04 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:04 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:04 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:04 TIME:0.0196 Process:Visitor
+07-10-2013 07:10:38 DEBUG Processing Request Visitor
+07-10-2013 07:10:38 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:38 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:38 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:38 TIME:0.0206 Process:Visitor
+07-10-2013 07:10:55 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:55 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:55 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:55 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:42 DEBUG Processing Request Visitor
+07-10-2013 07:10:42 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:42 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:42 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:42 TIME:0.0193 Process:Visitor
+07-10-2013 07:10:14 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:14 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:14 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:14 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:14 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:21 DEBUG Processing Request Visitor
+07-10-2013 07:10:21 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:21 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:21 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:21 TIME:0.0209 Process:Visitor
+07-10-2013 07:10:24 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:24 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:24 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:24 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:24 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:48 DEBUG Processing Request Visitor
+07-10-2013 07:10:48 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:48 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:48 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:48 TIME:0.0211 Process:Visitor
+07-10-2013 07:10:04 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:04 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:04 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:04 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:04 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:52 DEBUG Processing Request Visitor
+07-10-2013 07:10:52 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:52 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:52 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:52 TIME:0.0202 Process:Visitor
+07-10-2013 07:10:22 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:22 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:22 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:22 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:22 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:45 DEBUG Processing Request Visitor
+07-10-2013 07:10:45 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 07:10:45 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 07:10:45 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 07:10:45 TIME:0.0200 Process:Visitor
+07-10-2013 07:10:28 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 07:10:28 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 07:10:28 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 07:10:28 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 07:10:28 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 07:10:43 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 07:10:43 DEBUG in Main
+07-10-2013 07:10:51 DEBUG Processing Request vistor
+07-10-2013 07:10:51 DEBUG Processing Request vistor SIZE=1
+07-10-2013 07:10:51 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 07:10:51 TIME:0.0005 Process:vistor
+07-10-2013 07:10:00 DEBUG Processing Request visitor
+07-10-2013 07:10:00 DEBUG Processing Request visitor SIZE=1
+07-10-2013 07:10:00 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 07:10:00 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 07:10:00 TIME:0.0204 Process:visitor
+07-10-2013 08:10:55 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 08:10:55 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 08:10:55 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 08:10:55 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 08:10:55 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:35 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:35 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:35 TIME:0.0209 Process:visitor
+07-10-2013 08:10:42 DEBUG Processing Request Login
+07-10-2013 08:10:42 DEBUG Processing Request Login SIZE=1
+07-10-2013 08:10:42 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 08:10:42 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 08:10:42 TIME:0.0069 Process:Login
+07-10-2013 08:10:48 DEBUG Processing Request Login-Process
+07-10-2013 08:10:48 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 08:10:48 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 08:10:48 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 08:10:48 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 08:10:48 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 08:10:48 TIME:0.0059 Process:Login-Process
+07-10-2013 08:10:19 DEBUG Processing Request visitor
+07-10-2013 08:10:19 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:19 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:19 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:19 TIME:0.0215 Process:visitor
+07-10-2013 08:10:32 DEBUG Processing Request Login
+07-10-2013 08:10:32 DEBUG Processing Request Login SIZE=1
+07-10-2013 08:10:32 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 08:10:32 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 08:10:32 TIME:0.0064 Process:Login
+07-10-2013 08:10:16 DEBUG Processing Request visitor
+07-10-2013 08:10:16 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:16 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:16 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:16 TIME:0.0195 Process:visitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:35 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:35 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:35 TIME:0.0201 Process:visitor
+07-10-2013 08:10:09 DEBUG Processing Request visitor
+07-10-2013 08:10:09 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:09 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:09 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:09 TIME:0.0199 Process:visitor
+07-10-2013 08:10:36 DEBUG Processing Request visitor
+07-10-2013 08:10:36 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:36 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:36 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:37 TIME:0.0196 Process:visitor
+07-10-2013 08:10:34 DEBUG Processing Request visitor
+07-10-2013 08:10:34 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:34 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:34 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:34 TIME:0.0404 Process:visitor
+07-10-2013 08:10:15 DEBUG Processing Request visitor
+07-10-2013 08:10:15 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:15 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:15 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:15 TIME:0.0393 Process:visitor
+07-10-2013 08:10:32 DEBUG Processing Request visitor
+07-10-2013 08:10:32 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:32 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:32 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:32 TIME:0.0415 Process:visitor
+07-10-2013 08:10:07 DEBUG Processing Request visitor
+07-10-2013 08:10:07 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:07 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:07 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:07 TIME:0.0464 Process:visitor
+07-10-2013 08:10:16 DEBUG Processing Request visitor
+07-10-2013 08:10:16 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:16 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:16 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:16 TIME:0.0533 Process:visitor
+07-10-2013 08:10:04 DEBUG Processing Request visitor
+07-10-2013 08:10:04 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:04 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:04 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:04 TIME:0.0423 Process:visitor
+07-10-2013 08:10:48 DEBUG Processing Request visitor
+07-10-2013 08:10:48 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:48 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:48 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:48 TIME:0.0218 Process:visitor
+07-10-2013 08:10:55 DEBUG Processing Request visitor
+07-10-2013 08:10:55 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:55 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:55 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:55 TIME:0.0189 Process:visitor
+07-10-2013 08:10:02 DEBUG Processing Request visitor
+07-10-2013 08:10:02 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:02 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:02 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:02 TIME:0.0218 Process:visitor
+07-10-2013 08:10:56 DEBUG Processing Request visitor
+07-10-2013 08:10:56 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:56 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:56 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:56 TIME:0.0214 Process:visitor
+07-10-2013 08:10:50 DEBUG Processing Request visitor
+07-10-2013 08:10:50 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:50 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:50 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:50 TIME:0.0219 Process:visitor
+07-10-2013 08:10:11 DEBUG Processing Request visitor
+07-10-2013 08:10:11 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:11 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:11 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:11 TIME:0.0223 Process:visitor
+07-10-2013 08:10:32 DEBUG Processing Request visitor
+07-10-2013 08:10:32 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:32 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:32 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:32 TIME:0.0210 Process:visitor
+07-10-2013 08:10:19 DEBUG Processing Request visitor
+07-10-2013 08:10:19 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:19 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:19 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:19 TIME:0.0221 Process:visitor
+07-10-2013 08:10:29 DEBUG Processing Request visitor
+07-10-2013 08:10:29 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:29 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:29 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:29 TIME:0.0215 Process:visitor
+07-10-2013 08:10:49 DEBUG Processing Request visitor
+07-10-2013 08:10:49 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:49 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:49 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:50 TIME:0.0212 Process:visitor
+07-10-2013 08:10:41 DEBUG Processing Request visitor
+07-10-2013 08:10:41 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:41 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:41 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:41 TIME:0.0213 Process:visitor
+07-10-2013 08:10:46 DEBUG Processing Request visitor
+07-10-2013 08:10:46 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:46 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:46 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:46 TIME:0.0213 Process:visitor
+07-10-2013 08:10:18 DEBUG Processing Request visitor
+07-10-2013 08:10:18 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:18 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:18 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:18 TIME:0.0097 Process:visitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor
+07-10-2013 08:10:35 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:35 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:35 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:35 TIME:0.0096 Process:visitor
+07-10-2013 08:10:48 DEBUG Processing Request visitor
+07-10-2013 08:10:48 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:48 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:48 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:48 TIME:0.0184 Process:visitor
+07-10-2013 08:10:40 DEBUG Processing Request visitor
+07-10-2013 08:10:40 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:40 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:40 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:40 TIME:0.0192 Process:visitor
+07-10-2013 08:10:05 DEBUG Processing Request visitor
+07-10-2013 08:10:05 DEBUG Processing Request visitor SIZE=1
+07-10-2013 08:10:05 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 08:10:05 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 08:10:05 TIME:0.0095 Process:visitor
+07-10-2013 10:10:28 DEBUG Processing Request visitor
+07-10-2013 10:10:28 DEBUG Processing Request visitor SIZE=1
+07-10-2013 10:10:28 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 10:10:43 DEBUG Processing Request visitor
+07-10-2013 10:10:43 DEBUG Processing Request visitor SIZE=1
+07-10-2013 10:10:43 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 10:10:43 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 10:10:43 TIME:0.0095 Process:visitor
+07-10-2013 10:10:05 DEBUG Processing Request Visitor-AddNewVisitor
+07-10-2013 10:10:05 DEBUG Processing Request Visitor-AddNewVisitor SIZE=2
+07-10-2013 10:10:05 DUMP Array
+(
+    [0] => Visitor
+    [1] => AddNewVisitor
+)
+
+07-10-2013 10:10:05 DEBUG PROCESS VIEW : Calling ClassVisitor
+07-10-2013 10:10:05 DEBUG PROCESS VIEW : Calling FunctionAddNewVisitor
+07-10-2013 10:10:08 DEBUG Processing Request visitor
+07-10-2013 10:10:08 DEBUG Processing Request visitor SIZE=1
+07-10-2013 10:10:08 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 10:10:08 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 10:10:08 TIME:0.0197 Process:visitor
+07-10-2013 10:10:54 DEBUG Processing Request event
+07-10-2013 10:10:54 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:54 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:54 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:54 TIME:0.0197 Process:event
+07-10-2013 10:10:05 DEBUG Processing Request vistor
+07-10-2013 10:10:05 DEBUG Processing Request vistor SIZE=1
+07-10-2013 10:10:05 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 10:10:05 TIME:0.0005 Process:vistor
+07-10-2013 10:10:08 DEBUG Processing Request vistor
+07-10-2013 10:10:08 DEBUG Processing Request vistor SIZE=1
+07-10-2013 10:10:08 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 10:10:08 TIME:0.0005 Process:vistor
+07-10-2013 10:10:10 DEBUG Processing Request vistor
+07-10-2013 10:10:10 DEBUG Processing Request vistor SIZE=1
+07-10-2013 10:10:10 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 10:10:10 TIME:0.0005 Process:vistor
+07-10-2013 10:10:12 DEBUG Processing Request vistor
+07-10-2013 10:10:12 DEBUG Processing Request vistor SIZE=1
+07-10-2013 10:10:12 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 10:10:12 TIME:0.0005 Process:vistor
+07-10-2013 10:10:17 DEBUG Processing Request visitor
+07-10-2013 10:10:17 DEBUG Processing Request visitor SIZE=1
+07-10-2013 10:10:17 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 10:10:17 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 10:10:17 TIME:0.0210 Process:visitor
+07-10-2013 10:10:10 DEBUG Processing Request Login-Process
+07-10-2013 10:10:10 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 10:10:10 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 10:10:10 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 10:10:10 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 10:10:10 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 10:10:10 TIME:0.0055 Process:Login-Process
+07-10-2013 10:10:16 DEBUG Processing Request Login-Process
+07-10-2013 10:10:16 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 10:10:16 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 10:10:16 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 10:10:16 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 10:10:16 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 10:10:16 TIME:0.0049 Process:Login-Process
+07-10-2013 10:10:03 DEBUG Processing Request visitor
+07-10-2013 10:10:03 DEBUG Processing Request visitor SIZE=1
+07-10-2013 10:10:03 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 10:10:03 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 10:10:03 TIME:0.0189 Process:visitor
+07-10-2013 10:10:09 DEBUG Processing Request event
+07-10-2013 10:10:09 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:09 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:09 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:09 TIME:0.0108 Process:event
+07-10-2013 10:10:44 DEBUG Processing Request event
+07-10-2013 10:10:44 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:44 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:44 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:44 TIME:0.0204 Process:event
+07-10-2013 10:10:29 DEBUG Processing Request event
+07-10-2013 10:10:29 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:29 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:29 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:29 TIME:0.0196 Process:event
+07-10-2013 10:10:11 DEBUG Processing Request event
+07-10-2013 10:10:11 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:11 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:11 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:11 TIME:0.0188 Process:event
+07-10-2013 10:10:09 DEBUG Processing Request event
+07-10-2013 10:10:09 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:09 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:09 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:09 TIME:0.0195 Process:event
+07-10-2013 10:10:13 DEBUG Processing Request Event-OpenEvent-1
+07-10-2013 10:10:13 DEBUG Processing Request Event-OpenEvent-1 SIZE=3
+07-10-2013 10:10:13 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 1
+)
+
+07-10-2013 10:10:13 DEBUG PROCESS VIEW : Calling ClassEvent
+07-10-2013 10:10:13 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+07-10-2013 10:10:13 DEBUG {"UpdateCtrls":[null]}
+07-10-2013 10:10:13 TIME:0.0063 Process:Event-OpenEvent-1
+07-10-2013 10:10:38 DEBUG Processing Request event
+07-10-2013 10:10:38 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:38 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:38 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:38 TIME:0.0206 Process:event
+07-10-2013 10:10:42 DEBUG Processing Request Event-OpenEvent-1
+07-10-2013 10:10:42 DEBUG Processing Request Event-OpenEvent-1 SIZE=3
+07-10-2013 10:10:42 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 1
+)
+
+07-10-2013 10:10:42 DEBUG PROCESS VIEW : Calling ClassEvent
+07-10-2013 10:10:42 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+07-10-2013 10:10:42 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+07-10-2013 10:10:42 TIME:0.0044 Process:Event-OpenEvent-1
+07-10-2013 10:10:47 DEBUG Processing Request Visitor
+07-10-2013 10:10:47 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 10:10:47 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 10:10:47 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 10:10:47 TIME:0.0182 Process:Visitor
+07-10-2013 10:10:51 DEBUG Processing Request Visitor
+07-10-2013 10:10:51 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 10:10:51 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 10:10:51 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 10:10:51 TIME:0.0196 Process:Visitor
+07-10-2013 10:10:12 DEBUG Processing Request Visitor
+07-10-2013 10:10:12 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 10:10:12 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 10:10:12 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 10:10:12 TIME:0.0206 Process:Visitor
+07-10-2013 10:10:23 DEBUG Processing Request event
+07-10-2013 10:10:23 DEBUG Processing Request event SIZE=1
+07-10-2013 10:10:23 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 10:10:23 DEBUG SHOW VIEW : Classevent
+07-10-2013 10:10:23 TIME:0.0201 Process:event
+07-10-2013 10:10:55 DEBUG Processing Request vistor
+07-10-2013 10:10:55 DEBUG Processing Request vistor SIZE=1
+07-10-2013 10:10:55 DUMP Array
+(
+    [0] => vistor
+)
+
+07-10-2013 10:10:55 TIME:0.0005 Process:vistor
+07-10-2013 11:10:02 DEBUG Processing Request visitor
+07-10-2013 11:10:02 DEBUG Processing Request visitor SIZE=1
+07-10-2013 11:10:02 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 11:10:02 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 11:10:02 TIME:0.0185 Process:visitor
+07-10-2013 11:10:07 DEBUG Processing Request event
+07-10-2013 11:10:07 DEBUG Processing Request event SIZE=1
+07-10-2013 11:10:07 DUMP Array
+(
+    [0] => event
+)
+
+07-10-2013 11:10:07 DEBUG SHOW VIEW : Classevent
+07-10-2013 11:10:07 TIME:0.0197 Process:event
+07-10-2013 11:10:26 DEBUG Processing Request visitor
+07-10-2013 11:10:26 DEBUG Processing Request visitor SIZE=1
+07-10-2013 11:10:26 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 11:10:26 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 11:10:26 TIME:0.0185 Process:visitor
+07-10-2013 12:10:07 DEBUG Processing Request Login
+07-10-2013 12:10:07 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:07 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:07 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:07 TIME:0.0055 Process:Login
+07-10-2013 12:10:12 DEBUG Processing Request Login-Process
+07-10-2013 12:10:12 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 12:10:12 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 12:10:12 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 12:10:12 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 12:10:12 TIME:0.0089 Process:Login-Process
+07-10-2013 12:10:25 DEBUG Processing Request Login
+07-10-2013 12:10:25 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:25 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:25 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:25 TIME:0.0058 Process:Login
+07-10-2013 12:10:54 DEBUG Processing Request Login
+07-10-2013 12:10:54 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:54 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:54 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:54 TIME:0.0060 Process:Login
+07-10-2013 12:10:12 DEBUG Processing Request Login
+07-10-2013 12:10:12 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:12 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:12 TIME:0.0061 Process:Login
+07-10-2013 12:10:17 DEBUG Processing Request Login
+07-10-2013 12:10:17 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:17 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:17 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:17 TIME:0.0062 Process:Login
+07-10-2013 12:10:31 DEBUG Processing Request Login
+07-10-2013 12:10:31 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:31 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:31 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:31 TIME:0.0061 Process:Login
+07-10-2013 12:10:36 DEBUG Processing Request Login-Process
+07-10-2013 12:10:36 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 12:10:36 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 12:10:36 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 12:10:36 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 12:10:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 12:10:36 TIME:0.0048 Process:Login-Process
+07-10-2013 12:10:50 DEBUG Processing Request visitor
+07-10-2013 12:10:50 DEBUG Processing Request visitor SIZE=1
+07-10-2013 12:10:50 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 12:10:50 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 12:10:50 TIME:0.0086 Process:visitor
+07-10-2013 12:10:54 DEBUG Processing Request Registration
+07-10-2013 12:10:54 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:54 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:54 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:54 TIME:0.0062 Process:Registration
+07-10-2013 12:10:58 DEBUG Processing Request Registration-ProcessReg
+07-10-2013 12:10:58 DEBUG Processing Request Registration-ProcessReg SIZE=2
+07-10-2013 12:10:58 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+07-10-2013 12:10:58 DEBUG PROCESS VIEW : Calling ClassRegistration
+07-10-2013 12:10:58 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+07-10-2013 12:10:58 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Name","Ctrl_Type":3}]}
+07-10-2013 12:10:58 TIME:0.0055 Process:Registration-ProcessReg
+07-10-2013 12:10:23 DEBUG Processing Request Registration
+07-10-2013 12:10:23 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:23 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:23 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:23 TIME:0.0059 Process:Registration
+07-10-2013 12:10:25 DEBUG Processing Request Registration
+07-10-2013 12:10:25 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:25 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:25 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:25 TIME:0.0057 Process:Registration
+07-10-2013 12:10:12 DEBUG Processing Request Registration
+07-10-2013 12:10:12 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:12 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:12 TIME:0.0054 Process:Registration
+07-10-2013 12:10:44 DEBUG Processing Request Registration
+07-10-2013 12:10:44 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:44 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:44 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:44 TIME:0.0058 Process:Registration
+07-10-2013 12:10:05 DEBUG Processing Request Registration
+07-10-2013 12:10:05 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:05 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:05 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:05 TIME:0.0061 Process:Registration
+07-10-2013 12:10:12 DEBUG Processing Request Registration
+07-10-2013 12:10:12 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:12 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:12 TIME:0.0069 Process:Registration
+07-10-2013 12:10:52 DEBUG Processing Request visitor
+07-10-2013 12:10:52 DEBUG Processing Request visitor SIZE=1
+07-10-2013 12:10:52 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 12:10:52 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 12:10:52 TIME:0.0093 Process:visitor
+07-10-2013 12:10:12 DEBUG Processing Request Registration
+07-10-2013 12:10:12 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:12 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:12 TIME:0.0057 Process:Registration
+07-10-2013 12:10:03 DEBUG Processing Request Registration
+07-10-2013 12:10:03 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:03 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:03 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:03 TIME:0.0059 Process:Registration
+07-10-2013 12:10:27 DEBUG Processing Request Registration
+07-10-2013 12:10:27 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:27 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:27 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:27 TIME:0.0060 Process:Registration
+07-10-2013 12:10:51 DEBUG Processing Request Registration
+07-10-2013 12:10:51 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:51 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:51 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:51 TIME:0.0057 Process:Registration
+07-10-2013 12:10:32 DEBUG Processing Request Login
+07-10-2013 12:10:32 DEBUG Processing Request Login SIZE=1
+07-10-2013 12:10:32 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 12:10:32 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 12:10:32 TIME:0.0065 Process:Login
+07-10-2013 12:10:50 DEBUG Processing Request Registration
+07-10-2013 12:10:50 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:50 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:50 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:50 TIME:0.0058 Process:Registration
+07-10-2013 12:10:12 DEBUG Processing Request visitor
+07-10-2013 12:10:12 DEBUG Processing Request visitor SIZE=1
+07-10-2013 12:10:12 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 12:10:12 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 12:10:12 TIME:0.0095 Process:visitor
+07-10-2013 12:10:05 DEBUG Processing Request Registration
+07-10-2013 12:10:05 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:05 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:05 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:05 TIME:0.0061 Process:Registration
+07-10-2013 12:10:15 DEBUG Processing Request Registration
+07-10-2013 12:10:15 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:15 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:15 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:15 TIME:0.0074 Process:Registration
+07-10-2013 12:10:52 DEBUG Processing Request Registration
+07-10-2013 12:10:52 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:52 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:52 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:52 TIME:0.0068 Process:Registration
+07-10-2013 12:10:59 DEBUG Processing Request Registration
+07-10-2013 12:10:59 DEBUG Processing Request Registration SIZE=1
+07-10-2013 12:10:59 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 12:10:59 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 12:10:59 TIME:0.0062 Process:Registration
+07-10-2013 01:10:01 DEBUG Processing Request visitor
+07-10-2013 01:10:01 DEBUG Processing Request visitor SIZE=1
+07-10-2013 01:10:01 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 01:10:01 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 01:10:01 TIME:0.0192 Process:visitor
+07-10-2013 01:10:49 DEBUG Processing Request Registration
+07-10-2013 01:10:49 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:49 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:49 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:49 TIME:0.0060 Process:Registration
+07-10-2013 01:10:03 DEBUG Processing Request Registration
+07-10-2013 01:10:03 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:03 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:03 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:03 TIME:0.0054 Process:Registration
+07-10-2013 01:10:26 DEBUG Processing Request Registration
+07-10-2013 01:10:26 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:26 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:26 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:26 TIME:0.0050 Process:Registration
+07-10-2013 01:10:51 DEBUG Processing Request Registration
+07-10-2013 01:10:51 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:51 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:51 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:51 TIME:0.0068 Process:Registration
+07-10-2013 01:10:02 DEBUG Processing Request Registration
+07-10-2013 01:10:02 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:02 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:02 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:02 TIME:0.0051 Process:Registration
+07-10-2013 01:10:35 DEBUG Processing Request Registration
+07-10-2013 01:10:35 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:35 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:35 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:35 TIME:0.0056 Process:Registration
+07-10-2013 01:10:38 DEBUG Processing Request visitor
+07-10-2013 01:10:38 DEBUG Processing Request visitor SIZE=1
+07-10-2013 01:10:38 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 01:10:38 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 01:10:38 TIME:0.0199 Process:visitor
+07-10-2013 01:10:35 DEBUG Processing Request Registration
+07-10-2013 01:10:35 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:35 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:35 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:35 TIME:0.0066 Process:Registration
+07-10-2013 01:10:47 DEBUG Processing Request Registration
+07-10-2013 01:10:47 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:47 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:47 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:47 TIME:0.0065 Process:Registration
+07-10-2013 01:10:55 DEBUG Processing Request Registration-ProcessReg
+07-10-2013 01:10:55 DEBUG Processing Request Registration-ProcessReg SIZE=2
+07-10-2013 01:10:55 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+07-10-2013 01:10:55 DEBUG PROCESS VIEW : Calling ClassRegistration
+07-10-2013 01:10:55 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+07-10-2013 01:10:55 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Name","Ctrl_Type":3}]}
+07-10-2013 01:10:55 TIME:0.0051 Process:Registration-ProcessReg
+07-10-2013 01:10:14 DEBUG Processing Request Registration
+07-10-2013 01:10:14 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:14 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:14 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:14 TIME:0.0057 Process:Registration
+07-10-2013 01:10:57 DEBUG Processing Request Registration
+07-10-2013 01:10:57 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:57 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:57 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:57 TIME:0.0057 Process:Registration
+07-10-2013 01:10:09 DEBUG Processing Request Registration
+07-10-2013 01:10:09 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:09 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:09 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:09 TIME:0.0058 Process:Registration
+07-10-2013 01:10:36 DEBUG Processing Request Registration
+07-10-2013 01:10:36 DEBUG Processing Request Registration SIZE=1
+07-10-2013 01:10:36 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 01:10:36 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 01:10:36 TIME:0.0058 Process:Registration
+07-10-2013 01:10:34 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:34 DEBUG in Main
+07-10-2013 01:10:35 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:35 DEBUG in Main
+07-10-2013 01:10:37 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:37 DEBUG in Main
+07-10-2013 01:10:37 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:37 DEBUG in Main
+07-10-2013 01:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:38 DEBUG in Main
+07-10-2013 01:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:38 DEBUG in Main
+07-10-2013 01:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:38 DEBUG in Main
+07-10-2013 01:10:39 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:39 DEBUG in Main
+07-10-2013 01:10:24 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:24 DEBUG in Main
+07-10-2013 01:10:40 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:40 DEBUG in Main
+07-10-2013 01:10:30 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:30 DEBUG in Main
+07-10-2013 01:10:47 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:47 DEBUG in Main
+07-10-2013 01:10:12 DEBUG Processing Request visitor
+07-10-2013 01:10:12 DEBUG Processing Request visitor SIZE=1
+07-10-2013 01:10:12 DUMP Array
+(
+    [0] => visitor
+)
+
+07-10-2013 01:10:12 DEBUG SHOW VIEW : Classvisitor
+07-10-2013 01:10:12 TIME:0.0096 Process:visitor
+07-10-2013 01:10:45 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 01:10:45 DEBUG in Main
+07-10-2013 01:10:18 DEBUG Processing Request Masters
+07-10-2013 01:10:18 DEBUG Processing Request Masters SIZE=1
+07-10-2013 01:10:18 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 01:10:18 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 01:10:18 TIME:0.0190 Process:Masters
+07-10-2013 01:10:24 DEBUG Processing Request Contact
+07-10-2013 01:10:24 DEBUG Processing Request Contact SIZE=1
+07-10-2013 01:10:24 DUMP Array
+(
+    [0] => Contact
+)
+
+07-10-2013 01:10:24 TIME:0.0005 Process:Contact
+07-10-2013 01:10:27 DEBUG Processing Request Masters
+07-10-2013 01:10:27 DEBUG Processing Request Masters SIZE=1
+07-10-2013 01:10:27 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 01:10:27 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 01:10:27 TIME:0.0053 Process:Masters
+07-10-2013 01:10:16 DEBUG Processing Request Masters
+07-10-2013 01:10:16 DEBUG Processing Request Masters SIZE=1
+07-10-2013 01:10:16 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 01:10:16 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 01:10:16 TIME:0.0054 Process:Masters
+07-10-2013 01:10:42 DEBUG Processing Request Masters
+07-10-2013 01:10:42 DEBUG Processing Request Masters SIZE=1
+07-10-2013 01:10:42 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 01:10:42 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 01:10:42 TIME:0.0058 Process:Masters
+07-10-2013 01:10:17 DEBUG Processing Request Masters
+07-10-2013 01:10:17 DEBUG Processing Request Masters SIZE=1
+07-10-2013 01:10:17 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 01:10:17 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 01:10:17 TIME:0.0058 Process:Masters
+07-10-2013 02:10:23 DEBUG Processing Request Masters
+07-10-2013 02:10:23 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:23 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:24 DEBUG Processing Request Masters
+07-10-2013 02:10:24 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:24 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:49 DEBUG Processing Request Masters
+07-10-2013 02:10:49 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:49 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:49 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:49 TIME:0.0055 Process:Masters
+07-10-2013 02:10:58 DEBUG Processing Request Masters
+07-10-2013 02:10:58 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:58 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:58 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:58 TIME:0.0056 Process:Masters
+07-10-2013 02:10:16 DEBUG Processing Request Masters
+07-10-2013 02:10:16 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:16 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:16 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:16 TIME:0.0062 Process:Masters
+07-10-2013 02:10:41 DEBUG Processing Request Login-Process
+07-10-2013 02:10:41 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 02:10:41 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 02:10:41 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 02:10:41 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 02:10:41 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 02:10:41 TIME:0.0054 Process:Login-Process
+07-10-2013 02:10:50 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:50 DEBUG in Main
+07-10-2013 02:10:54 DEBUG Processing Request ForgetPwd
+07-10-2013 02:10:54 DEBUG Processing Request ForgetPwd SIZE=1
+07-10-2013 02:10:54 DUMP Array
+(
+    [0] => ForgetPwd
+)
+
+07-10-2013 02:10:54 TIME:0.0164 Process:ForgetPwd
+07-10-2013 02:10:58 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:58 DEBUG in Main
+07-10-2013 02:10:02 DEBUG Processing Request Register
+07-10-2013 02:10:02 DEBUG Processing Request Register SIZE=1
+07-10-2013 02:10:02 DUMP Array
+(
+    [0] => Register
+)
+
+07-10-2013 02:10:02 TIME:0.0005 Process:Register
+07-10-2013 02:10:03 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:03 DEBUG in Main
+07-10-2013 02:10:41 DEBUG Processing Request Masters
+07-10-2013 02:10:41 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:41 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:41 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:53 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:53 DEBUG in Main
+07-10-2013 02:10:10 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:10 DEBUG in Main
+07-10-2013 02:10:14 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:14 DEBUG in Main
+07-10-2013 02:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 02:10:38 DEBUG in Main
+07-10-2013 02:10:34 DEBUG Processing Request Masters
+07-10-2013 02:10:34 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:34 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:56 DEBUG Processing Request Masters
+07-10-2013 02:10:56 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:56 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:56 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:35 DEBUG Processing Request Masters
+07-10-2013 02:10:35 DEBUG Processing Request Masters SIZE=1
+07-10-2013 02:10:35 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 02:10:35 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 02:10:35 TIME:0.0064 Process:Masters
+07-10-2013 03:10:36 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:36 DEBUG in Main
+07-10-2013 03:10:14 DEBUG Processing Request Login
+07-10-2013 03:10:14 DEBUG Processing Request Login SIZE=1
+07-10-2013 03:10:14 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 03:10:14 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 03:10:14 TIME:0.0056 Process:Login
+07-10-2013 03:10:22 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:22 DEBUG in Main
+07-10-2013 03:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:38 DEBUG in Main
+07-10-2013 03:10:11 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:11 DEBUG in Main
+07-10-2013 03:10:02 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:02 DEBUG in Main
+07-10-2013 03:10:05 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:05 DEBUG in Main
+07-10-2013 03:10:17 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:17 DEBUG in Main
+07-10-2013 03:10:57 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:57 DEBUG in Main
+07-10-2013 03:10:05 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:05 DEBUG in Main
+07-10-2013 03:10:12 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:12 DEBUG in Main
+07-10-2013 03:10:59 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:59 DEBUG in Main
+07-10-2013 03:10:25 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:25 DEBUG in Main
+07-10-2013 03:10:37 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:37 DEBUG in Main
+07-10-2013 03:10:57 DEBUG Processing Request Masters
+07-10-2013 03:10:57 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:57 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:57 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:23 DEBUG Processing Request Masters
+07-10-2013 03:10:23 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:23 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:23 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:23 TIME:0.0058 Process:Masters
+07-10-2013 03:10:49 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:49 DEBUG in Main
+07-10-2013 03:10:03 DEBUG Processing Request Login-Process
+07-10-2013 03:10:03 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 03:10:03 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 03:10:03 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 03:10:03 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 03:10:03 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 03:10:03 TIME:0.0055 Process:Login-Process
+07-10-2013 03:10:14 DEBUG Processing Request ForgotPwd-Process
+07-10-2013 03:10:14 DEBUG Processing Request ForgotPwd-Process SIZE=2
+07-10-2013 03:10:14 DUMP Array
+(
+    [0] => ForgotPwd
+    [1] => Process
+)
+
+07-10-2013 03:10:14 DEBUG PROCESS VIEW : Calling ClassForgotPwd
+07-10-2013 03:10:14 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 03:10:14 TIME:0.0051 Process:ForgotPwd-Process
+07-10-2013 03:10:43 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:43 DEBUG in Main
+07-10-2013 03:10:14 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:14 DEBUG in Main
+07-10-2013 03:10:25 DEBUG Processing Request Masters
+07-10-2013 03:10:25 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:25 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:49 DEBUG Processing Request Masters
+07-10-2013 03:10:49 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:49 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:49 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:49 TIME:0.0070 Process:Masters
+07-10-2013 03:10:04 DEBUG Processing Request Masters
+07-10-2013 03:10:04 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:04 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:04 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:04 TIME:0.0052 Process:Masters
+07-10-2013 03:10:34 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:34 DEBUG in Main
+07-10-2013 03:10:39 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:39 DEBUG in Main
+07-10-2013 03:10:41 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:41 DEBUG in Main
+07-10-2013 03:10:55 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:55 DEBUG in Main
+07-10-2013 03:10:57 DEBUG Processing Request Masters
+07-10-2013 03:10:57 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:57 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:57 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:57 TIME:0.0051 Process:Masters
+07-10-2013 03:10:46 DEBUG Processing Request Masters
+07-10-2013 03:10:46 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:46 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:46 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:46 TIME:0.0060 Process:Masters
+07-10-2013 03:10:59 DEBUG Processing Request Masters
+07-10-2013 03:10:59 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:59 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:59 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:59 TIME:0.0044 Process:Masters
+07-10-2013 03:10:17 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:17 DEBUG in Main
+07-10-2013 03:10:30 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 03:10:30 DEBUG in Main
+07-10-2013 03:10:36 DEBUG Processing Request Masters
+07-10-2013 03:10:36 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:36 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:36 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:36 TIME:0.0057 Process:Masters
+07-10-2013 03:10:47 DEBUG Processing Request Event
+07-10-2013 03:10:47 DEBUG Processing Request Event SIZE=1
+07-10-2013 03:10:47 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 03:10:47 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 03:10:47 TIME:0.0371 Process:Event
+07-10-2013 03:10:02 DEBUG Processing Request Masters
+07-10-2013 03:10:02 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:02 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:02 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:02 TIME:0.0063 Process:Masters
+07-10-2013 03:10:28 DEBUG Processing Request Masters
+07-10-2013 03:10:28 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:28 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:28 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:28 TIME:0.0064 Process:Masters
+07-10-2013 03:10:52 DEBUG Processing Request Event
+07-10-2013 03:10:52 DEBUG Processing Request Event SIZE=1
+07-10-2013 03:10:52 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 03:10:52 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 03:10:52 TIME:0.0194 Process:Event
+07-10-2013 03:10:59 DEBUG Processing Request Masters
+07-10-2013 03:10:59 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:59 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:59 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:59 TIME:0.0065 Process:Masters
+07-10-2013 03:10:11 DEBUG Processing Request Event
+07-10-2013 03:10:11 DEBUG Processing Request Event SIZE=1
+07-10-2013 03:10:11 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 03:10:11 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 03:10:11 TIME:0.0193 Process:Event
+07-10-2013 03:10:15 DEBUG Processing Request Masters
+07-10-2013 03:10:15 DEBUG Processing Request Masters SIZE=1
+07-10-2013 03:10:15 DUMP Array
+(
+    [0] => Masters
+)
+
+07-10-2013 03:10:15 DEBUG SHOW VIEW : ClassMasters
+07-10-2013 03:10:15 TIME:0.0062 Process:Masters
+07-10-2013 03:10:39 DEBUG Processing Request Event
+07-10-2013 03:10:39 DEBUG Processing Request Event SIZE=1
+07-10-2013 03:10:39 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 03:10:39 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 03:10:39 TIME:0.0091 Process:Event
+07-10-2013 04:10:13 DEBUG Processing Request Event
+07-10-2013 04:10:13 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:13 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:13 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:13 TIME:0.0191 Process:Event
+07-10-2013 04:10:39 DEBUG Processing Request Event
+07-10-2013 04:10:39 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:39 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:39 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:39 TIME:0.0188 Process:Event
+07-10-2013 04:10:31 DEBUG Processing Request Event
+07-10-2013 04:10:31 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:31 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:31 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:31 TIME:0.0179 Process:Event
+07-10-2013 04:10:23 DEBUG Processing Request Event
+07-10-2013 04:10:23 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:23 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:23 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:23 TIME:0.0246 Process:Event
+07-10-2013 04:10:32 DEBUG Processing Request Event
+07-10-2013 04:10:32 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:32 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:32 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:32 TIME:0.0182 Process:Event
+07-10-2013 04:10:50 DEBUG Processing Request Event
+07-10-2013 04:10:50 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:50 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:50 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:50 TIME:0.0181 Process:Event
+07-10-2013 04:10:00 DEBUG Processing Request Event
+07-10-2013 04:10:00 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:00 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:00 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:00 TIME:0.0080 Process:Event
+07-10-2013 04:10:13 DEBUG Processing Request Event
+07-10-2013 04:10:13 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:13 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:13 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:13 TIME:0.0078 Process:Event
+07-10-2013 04:10:39 DEBUG Processing Request Event
+07-10-2013 04:10:39 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:39 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:39 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:39 TIME:0.0094 Process:Event
+07-10-2013 04:10:03 DEBUG Processing Request Event
+07-10-2013 04:10:03 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:03 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:03 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:03 TIME:0.0190 Process:Event
+07-10-2013 04:10:21 DEBUG Processing Request Event
+07-10-2013 04:10:21 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:21 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:21 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:21 TIME:0.0189 Process:Event
+07-10-2013 04:10:42 DEBUG Processing Request Event
+07-10-2013 04:10:42 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:42 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:42 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:42 TIME:0.0183 Process:Event
+07-10-2013 04:10:12 DEBUG Processing Request Event
+07-10-2013 04:10:12 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:12 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:12 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:12 TIME:0.0186 Process:Event
+07-10-2013 04:10:30 DEBUG Processing Request Event
+07-10-2013 04:10:30 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:30 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:30 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:30 TIME:0.0186 Process:Event
+07-10-2013 04:10:09 DEBUG Processing Request Event
+07-10-2013 04:10:09 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:09 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:09 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:09 TIME:0.0194 Process:Event
+07-10-2013 04:10:49 DEBUG Processing Request Event
+07-10-2013 04:10:49 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:49 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:49 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:49 TIME:0.0763 Process:Event
+07-10-2013 04:10:47 DEBUG Processing Request Event
+07-10-2013 04:10:47 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:47 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:47 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:47 TIME:0.0210 Process:Event
+07-10-2013 04:10:49 DEBUG Processing Request Event
+07-10-2013 04:10:49 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:49 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:49 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:49 TIME:0.0237 Process:Event
+07-10-2013 04:10:55 DEBUG Processing Request Event
+07-10-2013 04:10:55 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:55 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:55 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:55 TIME:0.0195 Process:Event
+07-10-2013 04:10:38 DEBUG Processing Request Contact
+07-10-2013 04:10:38 DEBUG Processing Request Contact SIZE=1
+07-10-2013 04:10:38 DUMP Array
+(
+    [0] => Contact
+)
+
+07-10-2013 04:10:38 TIME:0.0005 Process:Contact
+07-10-2013 04:10:40 DEBUG Processing Request Event
+07-10-2013 04:10:40 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:40 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:40 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:40 TIME:0.0212 Process:Event
+07-10-2013 04:10:43 DEBUG Processing Request Login
+07-10-2013 04:10:43 DEBUG Processing Request Login SIZE=1
+07-10-2013 04:10:43 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 04:10:43 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 04:10:43 TIME:0.0071 Process:Login
+07-10-2013 04:10:57 DEBUG Processing Request Registration
+07-10-2013 04:10:57 DEBUG Processing Request Registration SIZE=1
+07-10-2013 04:10:57 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 04:10:57 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 04:10:57 TIME:0.0077 Process:Registration
+07-10-2013 04:10:00 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:00 DEBUG in Main
+07-10-2013 04:10:35 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:35 DEBUG in Main
+07-10-2013 04:10:27 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:27 DEBUG in Main
+07-10-2013 04:10:38 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:38 DEBUG in Main
+07-10-2013 04:10:18 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:18 DEBUG in Main
+07-10-2013 04:10:48 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:48 DEBUG in Main
+07-10-2013 04:10:05 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:05 DEBUG in Main
+07-10-2013 04:10:51 DEBUG Processing Request Event
+07-10-2013 04:10:51 DEBUG Processing Request Event SIZE=1
+07-10-2013 04:10:51 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 04:10:51 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 04:10:51 TIME:0.0089 Process:Event
+07-10-2013 04:10:22 DEBUG Processing Request Event-OpenEvent-1
+07-10-2013 04:10:22 DEBUG Processing Request Event-OpenEvent-1 SIZE=3
+07-10-2013 04:10:22 DUMP Array
+(
+    [0] => Event
+    [1] => OpenEvent
+    [2] => 1
+)
+
+07-10-2013 04:10:22 DEBUG PROCESS VIEW : Calling ClassEvent
+07-10-2013 04:10:22 DEBUG PROCESS VIEW : Calling FunctionOpenEvent
+07-10-2013 04:10:22 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"","Ctrl_Value":"Visitor","Ctrl_Type":5}]}
+07-10-2013 04:10:22 TIME:0.0046 Process:Event-OpenEvent-1
+07-10-2013 04:10:23 DEBUG Processing Request Visitor
+07-10-2013 04:10:23 DEBUG Processing Request Visitor SIZE=1
+07-10-2013 04:10:23 DUMP Array
+(
+    [0] => Visitor
+)
+
+07-10-2013 04:10:23 DEBUG SHOW VIEW : ClassVisitor
+07-10-2013 04:10:23 TIME:0.0399 Process:Visitor
+07-10-2013 04:10:22 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 04:10:22 DEBUG in Main
+07-10-2013 04:10:32 DEBUG Processing Request Login-Process
+07-10-2013 04:10:32 DEBUG Processing Request Login-Process SIZE=2
+07-10-2013 04:10:32 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+07-10-2013 04:10:32 DEBUG PROCESS VIEW : Calling ClassLogin
+07-10-2013 04:10:32 DEBUG PROCESS VIEW : Calling FunctionProcess
+07-10-2013 04:10:32 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Login-FormError","Ctrl_Value":"Not valid Input","Ctrl_Type":3}]}
+07-10-2013 04:10:32 TIME:0.0198 Process:Login-Process
+07-10-2013 05:10:24 DEBUG Processing Request Login
+07-10-2013 05:10:24 DEBUG Processing Request Login SIZE=1
+07-10-2013 05:10:24 DUMP Array
+(
+    [0] => Login
+)
+
+07-10-2013 05:10:24 DEBUG SHOW VIEW : ClassLogin
+07-10-2013 05:10:25 TIME:0.1841 Process:Login
+07-10-2013 05:10:28 DEBUG Processing Request Registration
+07-10-2013 05:10:28 DEBUG Processing Request Registration SIZE=1
+07-10-2013 05:10:28 DUMP Array
+(
+    [0] => Registration
+)
+
+07-10-2013 05:10:29 DEBUG SHOW VIEW : ClassRegistration
+07-10-2013 05:10:29 TIME:0.0466 Process:Registration
+07-10-2013 05:10:36 DEBUG Processing Request ForgotPwd
+07-10-2013 05:10:36 DEBUG Processing Request ForgotPwd SIZE=1
+07-10-2013 05:10:36 DUMP Array
+(
+    [0] => ForgotPwd
+)
+
+07-10-2013 05:10:36 DEBUG SHOW VIEW : ClassForgotPwd
+07-10-2013 05:10:36 TIME:0.0522 Process:ForgotPwd
+07-10-2013 05:10:40 DEBUG SHOW VIEW : ClassIndex
+07-10-2013 05:10:40 DEBUG in Main
+07-10-2013 05:10:58 DEBUG Processing Request Event
+07-10-2013 05:10:58 DEBUG Processing Request Event SIZE=1
+07-10-2013 05:10:58 DUMP Array
+(
+    [0] => Event
+)
+
+07-10-2013 05:10:58 DEBUG SHOW VIEW : ClassEvent
+07-10-2013 05:10:59 TIME:0.8265 Process:Event

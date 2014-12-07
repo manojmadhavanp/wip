@@ -1,0 +1,422 @@
+30-09-2013 02:09:26 DEBUG Processing Request Registration
+30-09-2013 02:09:26 TIME:0.0055 Process:Registration
+30-09-2013 02:09:32 DEBUG Processing Request Registration
+30-09-2013 02:09:32 TIME:0.0057 Process:Registration
+30-09-2013 02:09:00 DEBUG Processing Request Registration
+30-09-2013 02:09:00 TIME:0.0056 Process:Registration
+30-09-2013 02:09:11 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:11 DEBUG ProcessReg
+30-09-2013 02:09:11 DEBUG Enter Valid Companyname
+30-09-2013 02:09:11 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Companyname","Ctrl_Type":3}]}
+30-09-2013 02:09:11 TIME:0.0044 Process:Registration-ProcessReg
+30-09-2013 02:09:59 DEBUG Processing Request Registration
+30-09-2013 02:09:59 TIME:0.0057 Process:Registration
+30-09-2013 02:09:59 DEBUG Processing Request Registration
+30-09-2013 02:09:59 TIME:0.0055 Process:Registration
+30-09-2013 02:09:20 DEBUG Processing Request Registration
+30-09-2013 02:09:20 TIME:0.0053 Process:Registration
+30-09-2013 02:09:13 DEBUG Processing Request Registration
+30-09-2013 02:09:13 TIME:0.0052 Process:Registration
+30-09-2013 02:09:19 DEBUG Processing Request Registration
+30-09-2013 02:09:19 TIME:0.0107 Process:Registration
+30-09-2013 02:09:28 DEBUG Processing Request Login
+30-09-2013 02:09:28 TIME:0.0029 Process:Login
+30-09-2013 02:09:43 DEBUG Processing Request Registration
+30-09-2013 02:09:43 TIME:0.0045 Process:Registration
+30-09-2013 02:09:45 DEBUG Processing Request Registration
+30-09-2013 02:09:45 TIME:0.0050 Process:Registration
+30-09-2013 02:09:53 DEBUG Processing Request Registration
+30-09-2013 02:09:53 TIME:0.0073 Process:Registration
+30-09-2013 02:09:06 DEBUG Processing Request Registration
+30-09-2013 02:09:06 TIME:0.0106 Process:Registration
+30-09-2013 02:09:03 DEBUG Processing Request Registration
+30-09-2013 02:09:03 TIME:0.0068 Process:Registration
+30-09-2013 02:09:45 DEBUG Processing Request Registration
+30-09-2013 02:09:45 TIME:0.0097 Process:Registration
+30-09-2013 02:09:00 DEBUG Processing Request Registration
+30-09-2013 02:09:00 TIME:0.0066 Process:Registration
+30-09-2013 02:09:04 DEBUG Processing Request Registration
+30-09-2013 02:09:04 TIME:0.0055 Process:Registration
+30-09-2013 02:09:52 DEBUG Processing Request Registration
+30-09-2013 02:09:52 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:52 TIME:0.0054 Process:Registration
+30-09-2013 02:09:55 DEBUG Processing Request Registration
+30-09-2013 02:09:55 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:55 TIME:0.0050 Process:Registration
+30-09-2013 02:09:28 DEBUG Processing Request Registration
+30-09-2013 02:09:28 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:28 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:28 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:28 TIME:0.0083 Process:Registration
+30-09-2013 02:09:29 DEBUG Processing Request Registration
+30-09-2013 02:09:29 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:29 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:29 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:29 TIME:0.0078 Process:Registration
+30-09-2013 02:09:59 DEBUG Processing Request Registration
+30-09-2013 02:09:59 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:59 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:59 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:59 TIME:0.0080 Process:Registration
+30-09-2013 02:09:35 DEBUG Processing Request Registration
+30-09-2013 02:09:35 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:35 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:35 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:35 TIME:0.0066 Process:Registration
+30-09-2013 02:09:19 DEBUG Processing Request Registration
+30-09-2013 02:09:19 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:19 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:19 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:19 TIME:0.0058 Process:Registration
+30-09-2013 02:09:44 DEBUG Processing Request Registration
+30-09-2013 02:09:44 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:44 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:44 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:44 TIME:0.0077 Process:Registration
+30-09-2013 02:09:11 DEBUG Processing Request Registration
+30-09-2013 02:09:11 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:11 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:11 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:11 TIME:0.0065 Process:Registration
+30-09-2013 02:09:18 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:18 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:18 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:18 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:18 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:18 DEBUG ProcessReg
+30-09-2013 02:09:18 DEBUG Enter Valid Companyname
+30-09-2013 02:09:18 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Companyname","Ctrl_Type":3}]}
+30-09-2013 02:09:18 TIME:0.0034 Process:Registration-ProcessReg
+30-09-2013 02:09:43 DEBUG Processing Request Login
+30-09-2013 02:09:43 DEBUG Processing Request Login SIZE=1
+30-09-2013 02:09:43 DUMP Array
+(
+    [0] => Login
+)
+
+30-09-2013 02:09:43 DEBUG SHOW VIEW : ClassLogin
+30-09-2013 02:09:43 TIME:0.0028 Process:Login
+30-09-2013 02:09:47 DEBUG Processing Request Login-Process
+30-09-2013 02:09:47 DEBUG Processing Request Login-Process SIZE=2
+30-09-2013 02:09:47 DUMP Array
+(
+    [0] => Login
+    [1] => Process
+)
+
+30-09-2013 02:09:47 DEBUG PROCESS VIEW : Calling ClassLogin
+30-09-2013 02:09:47 DEBUG PROCESS VIEW : Calling FunctionProcess
+30-09-2013 02:09:49 DEBUG Processing Request Registration
+30-09-2013 02:09:49 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:49 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:49 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:49 TIME:0.0043 Process:Registration
+30-09-2013 02:09:53 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:53 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:53 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:53 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:53 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:53 DEBUG ProcessReg
+30-09-2013 02:09:53 DEBUG Enter Valid Companyname
+30-09-2013 02:09:53 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Companyname","Ctrl_Type":3}]}
+30-09-2013 02:09:53 TIME:0.0035 Process:Registration-ProcessReg
+30-09-2013 02:09:11 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:11 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:11 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:11 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:11 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:11 DEBUG ProcessReg
+30-09-2013 02:09:11 DEBUG true
+30-09-2013 02:09:11 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"true","Ctrl_Type":3}]}
+30-09-2013 02:09:11 TIME:0.0034 Process:Registration-ProcessReg
+30-09-2013 02:09:04 DEBUG Processing Request Registration
+30-09-2013 02:09:04 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:04 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:04 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:04 TIME:0.0051 Process:Registration
+30-09-2013 02:09:11 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:11 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:11 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:11 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:11 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:20 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:20 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:20 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:20 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:20 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:44 DEBUG Processing Request Registration
+30-09-2013 02:09:44 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:44 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:44 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:44 TIME:0.0064 Process:Registration
+30-09-2013 02:09:48 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:48 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:48 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:48 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:48 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:48 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Companyname","Ctrl_Type":3}]}
+30-09-2013 02:09:48 TIME:0.0042 Process:Registration-ProcessReg
+30-09-2013 02:09:54 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:54 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:54 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:54 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:54 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:54 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Registration Sucessfull","Ctrl_Type":3}]}
+30-09-2013 02:09:54 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Registration Sucessfull","Ctrl_Type":3},{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"true","Ctrl_Type":3}]}
+30-09-2013 02:09:54 TIME:0.0436 Process:Registration-ProcessReg
+30-09-2013 02:09:32 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:32 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:32 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:32 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:32 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:32 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Registration Sucessfull","Ctrl_Type":3}]}
+30-09-2013 02:09:32 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Registration Sucessfull","Ctrl_Type":3},{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"true","Ctrl_Type":3}]}
+30-09-2013 02:09:32 TIME:0.0414 Process:Registration-ProcessReg
+30-09-2013 02:09:22 DEBUG Processing Request Registration
+30-09-2013 02:09:22 DEBUG Processing Request Registration SIZE=1
+30-09-2013 02:09:22 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 02:09:22 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 02:09:22 TIME:0.0086 Process:Registration
+30-09-2013 02:09:29 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:29 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:29 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:29 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:29 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:29 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Emailid","Ctrl_Type":3}]}
+30-09-2013 02:09:29 TIME:0.0044 Process:Registration-ProcessReg
+30-09-2013 02:09:42 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 02:09:42 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 02:09:42 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 02:09:42 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 02:09:42 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 02:09:42 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Exhibition name","Ctrl_Type":3}]}
+30-09-2013 02:09:42 TIME:0.0078 Process:Registration-ProcessReg
+30-09-2013 03:09:12 DEBUG Processing Request Registration
+30-09-2013 03:09:12 DEBUG Processing Request Registration SIZE=1
+30-09-2013 03:09:12 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 03:09:12 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 03:09:12 TIME:0.0068 Process:Registration
+30-09-2013 03:09:22 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:22 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:22 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:22 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:22 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:22 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Emailid","Ctrl_Type":3}]}
+30-09-2013 03:09:22 TIME:0.0047 Process:Registration-ProcessReg
+30-09-2013 03:09:30 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:30 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:30 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:30 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:30 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:30 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Exhibition name","Ctrl_Type":3}]}
+30-09-2013 03:09:30 TIME:0.0043 Process:Registration-ProcessReg
+30-09-2013 03:09:36 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:36 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:36 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:36 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:36 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:36 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Stallno","Ctrl_Type":3}]}
+30-09-2013 03:09:36 TIME:0.0042 Process:Registration-ProcessReg
+30-09-2013 03:09:45 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:45 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:45 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:45 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:45 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:45 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Stallno","Ctrl_Type":3}]}
+30-09-2013 03:09:45 TIME:0.0043 Process:Registration-ProcessReg
+30-09-2013 03:09:55 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:55 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:55 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:55 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:55 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:55 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Mobile no should not be less than 10 digits","Ctrl_Type":3}]}
+30-09-2013 03:09:55 TIME:0.0095 Process:Registration-ProcessReg
+30-09-2013 03:09:38 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:38 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:38 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:38 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:38 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:38 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Mobile no should not be less than 10 digits","Ctrl_Type":3}]}
+30-09-2013 03:09:38 TIME:0.0120 Process:Registration-ProcessReg
+30-09-2013 03:09:51 DEBUG Processing Request Registration
+30-09-2013 03:09:51 DEBUG Processing Request Registration SIZE=1
+30-09-2013 03:09:51 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 03:09:51 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 03:09:51 TIME:0.0067 Process:Registration
+30-09-2013 03:09:06 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:06 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:06 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:06 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:06 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:06 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Enter Valid Stallno","Ctrl_Type":3}]}
+30-09-2013 03:09:06 TIME:0.0042 Process:Registration-ProcessReg
+30-09-2013 03:09:15 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:15 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:15 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:15 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:15 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:15 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Mobile no should not be less than 10 digits","Ctrl_Type":3}]}
+30-09-2013 03:09:15 TIME:0.0097 Process:Registration-ProcessReg
+30-09-2013 03:09:54 DEBUG Processing Request Registration
+30-09-2013 03:09:54 DEBUG Processing Request Registration SIZE=1
+30-09-2013 03:09:54 DUMP Array
+(
+    [0] => Registration
+)
+
+30-09-2013 03:09:54 DEBUG SHOW VIEW : ClassRegistration
+30-09-2013 03:09:54 TIME:0.0086 Process:Registration
+30-09-2013 03:09:09 DEBUG Processing Request Registration-ProcessReg
+30-09-2013 03:09:09 DEBUG Processing Request Registration-ProcessReg SIZE=2
+30-09-2013 03:09:09 DUMP Array
+(
+    [0] => Registration
+    [1] => ProcessReg
+)
+
+30-09-2013 03:09:09 DEBUG PROCESS VIEW : Calling ClassRegistration
+30-09-2013 03:09:09 DEBUG PROCESS VIEW : Calling FunctionProcessReg
+30-09-2013 03:09:09 DEBUG {"UpdateCtrls":[{"Ctrl_Name":"Registration-FormError","Ctrl_Value":"Mobile no should not be less than 10 digits","Ctrl_Type":3}]}
+30-09-2013 03:09:09 TIME:0.0096 Process:Registration-ProcessReg
